@@ -1,26 +1,9 @@
-Name=Berachs Emote Pack 1.7.0 Pony Edition (SA+REDDIT+OI+EVE+PONIES)
-Description=Most Emoticons, Maintained by Berach Damhain. Now with extra ponies.
-Icon=fluttershy.png
-Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion/tech: Kline Eto, Space Chikun
+Name=Pony Pack 2014 Git Edition
+Description=SA+GF+Reddit+EVE+Ponies
+Icon=colgatestare.png
+Author=Truly, a new age.
 
 [default]
-! maudbeh.png :maudbeh:
-
-! lunablep.png :lunablep:
-! cadanceconcern.png :cadanceconcern:
-! tavidance.gif :tavidance:
-! gregtech.gif :gregtech:
-! wooningintensifies.gif :wooningintensifies:
-! fluttergasp.png :fluttergasp:
-! toasty.png :toasty:
-! fortyalienbreasts.png :fortyalienbreasts:
-! idunnolol.gif :idunnolol:
-
-! xx.png :xx: :x.x:
-! deutschsmug.png :deutschsmug:
-! schland.png :schland: :schlaand:
-! ponycuddle.png :ponycuddle:
-! earnom.png :earnom:
 
 ! 2can.gif :2can:
 ! 44O1K.gif :gth:
@@ -214,10 +197,12 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! cactus.gif :cactus:
 ! cadancebeam.png :cadancebeam:
 ! cadancebeh.png :cadancebeh:
+! cadanceconcern.png :cadanceconcern:
 ! cadancecrack.png :cadancecrack:
 ! cadancefear.png :cadancefear:
 ! cadancefilly.png :cadancefilly:
 ! cadanceglare.png :cadanceglare:
+! cadancegoogly.png :cadancegoogly:
 ! cadancehappy.png :cadancehappy:
 ! cadancemad.png :cadancemad:
 ! cadanceohgod.png :cadanceohgod: :cadancewtc:
@@ -409,6 +394,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! desdesk.png :desdesk:
 ! deshappy.png :deshappy:
 ! deshugs.png :deshugs:
+! deutschsmug.png :deutschsmug:
 ! devilchild.001.gif :devilchild:
 ! dice.001.gif :dice:
 ! dickbutt.gif :dickbutt:
@@ -453,6 +439,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! dutchsmug.png :dutchsmug:
 ! dwclop.png :dwclop:
 ! dwtsk.png :dwtsk:
+! earnom.png :earnom:
 ! edi.001.gif :edi:
 ! eeyup.png :eeyup:
 ! effortissar.gif :effortissar:
@@ -1138,6 +1125,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! flutterfear.png :flutterfear:
 ! flutterfilly.png :flutterfilly:
 ! flutterfsjal.png :flutterfsjal:
+! fluttergasp.png :fluttergasp:
 ! fluttergayseal.png :fluttergayseal:
 ! flutterglare.png :flutterglare:
 ! flutterglee.png :flutterglee:
@@ -1177,7 +1165,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! fluttersnoop.gif :fluttersnoop:
 ! fluttersoon.png :fluttersoon:
 ! fluttersrs.png :fluttersrs:
-! flutterstare.png :flutterstare:
+flutterstare.png :flutterstare:
 ! fluttersway.gif :fluttersway:
 ! fluttersweat.png :fluttersweat:
 ! fluttertranquil.png :fluttertranquil:
@@ -1195,6 +1183,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! focused.png :focused:
 ! foreveralone.png :foreveralone:
 ! forkbomb.001.gif :forkbomb:
+! fortyalienbreasts.png :fortyalienbreasts:
 ! frank.gif :frank:
 ! fras.gif :fras:
 ! freddie.png :freddie:
@@ -1323,6 +1312,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! grannysmith.png :grannysmith:
 ! greatscott.png :greatscott: :1.21: :doc:
 ! greenangel.gif :greenangel:
+! gregtech.gif :gregtech:
 ! grinch.png :grinchreddit:
 ! gtfo.png :gtfo:
 ! guard.png :guard:
@@ -1361,6 +1351,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! hug.gif :hug:
 ! hug-left.png ({)
 ! hug-right.png (})
+! idunnolol.gif :idunnolol:
 ! icon_bear.gif :twistedbear:
 ! icon_evil.gif :eviltwist:
 ! icon_pirate.gif :pirate:
@@ -1421,6 +1412,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! lunaannoyed.png :lunaannoyed:
 ! lunaapproved.png :lunaapproved:
 ! lunabeh.png :lunabeh:
+! lunablep.png :lunablep:
 ! lunaclop.png :lunaclop:
 ! lunaconcern.png :lunaconcern:
 ! lunacrack.png :lunacrack:
@@ -1491,6 +1483,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! masaokis-w-kool-aid.gif :masaokiswkoolaid:
 ! masao-sympathy.gif :masaosympathy:
 ! mashbutten.gif :butten: :mashbutton: :petition:
+! maudbeh.png :maudbeh:
 ! maxdoobie.gif :maxdoobie: :md:
 ! maximumoverpone.gif :maximumoverpone:
 ! mayorclop.png :mayorclop:
@@ -1579,6 +1572,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! owl.png :owl:
 ! owlcomeatme.gif :owlcomeatme:
 ! owllod.png :owllod:
+! owlmad.png :owlmad:
 ! owlskeptical.png :owlskeptical:
 ! panic.png :panic:
 ! paperbagprincess.png :paperbagprincess:
@@ -1692,6 +1686,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! poker.png :poker:
 ! poland.001.gif :poland:
 ! pon3.png :pon3:
+! ponycuddle.png :ponycuddle:
 ! ponydolan.png :dolan: :ponydolan:
 ! ponygrouphug.png :ponygrouphug:
 ! ponyhorror.png :ponyhorror: :whywouldyoupostthat:
@@ -1940,6 +1935,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! sassargh.001.gif :sassargh:
 ! sbf.png :sbf: :secretbuttfun:
 ! scax-spork(funkengine).gif :scaxspork:
+! schland.png :schland: :schlaand:
 ! schlickreddit.png :schlickreddit:
 ! schm.png :schm: :sweetcelestia:
 ! sciencebitch.gif :sciencebitch: :jesse:
@@ -2076,6 +2072,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! spikeshrug.png :spikeshrug:
 ! spikesleep.png :spikesleep:
 ! spikesly.png :spikesly: :spikesoon:
+! spikesmug.png :spikesmug:
 ! spikestare.png :spikestare:
 ! spikeswag.png :spikeswag:
 ! spikeswoon.png :spikeswoon:
@@ -2159,6 +2156,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! taviconcern.png :taviconcern:
 ! tavicoy.png :tavicoy:
 ! tavicreep.png :tavicreep:
+! tavidance.gif :tavidance:
 ! tavidesk.png :tavidesk:
 ! tavidwi.png :tavidwi:
 ! tavifear.png :tavifear:
@@ -2195,6 +2193,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! timeline2.png :timeline2:
 ! tinfoin.png :tinfoin: :cripesfoil:
 ! tmyk.png :tmyk:
+! toasty.png :toasty:
 ! tolon.gif :tolon: :saus:
 ! tongue.png :tongue:
 ! tootzzz.001.png :tootzzz:
@@ -2244,6 +2243,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! twicreep.png :twicreep:
 ! twicringe.png :twicringe: :twicower:
 ! twicry.gif :twipout: :twicry:
+! twidance.gif :twidance:
 ! twiderp.gif :twiderp:
 ! twidesk.png :twidesk:
 ! twidwi.png :twidwi:
@@ -2265,6 +2265,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! twikidding.png :twikidding:
 ! twilisten.png :twilisten:
 ! twilod.png :twilod:
+! twimonkey.gif :twimonkey:
 ! twinom.png :twinom:
 ! twinosleep.png :twinosleep:
 ! twiohyou.png :twiohyou:
@@ -2374,6 +2375,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! woonatroll.png :woonatroll:
 ! woonawaifu.png :woonawaifu:
 ! woonawtc.png :woonawtc:
+! wooningintensifies.gif :wooningintensifies:
 ! wordsmith.gif :wordsmith:
 ! wordsmith2.gif :wordsmith2:
 ! wow.001.gif :wow:
@@ -2384,6 +2386,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! xcom.001.gif :xcom:
 ! xystance.jpg :xystance:
 ! xystance2.png :xystance2:
+! xx.png :xx: :x.x:
 ! yawn.png :yawn:
 ! yay.gif :yay:
 ! yayclod.001.png :yayclod:
