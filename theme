@@ -1,7 +1,7 @@
-Name=Ponysquad Emote Pack
-Description=Most Emoticons, Maintained by Berach Damhain. Now with extra ponies.
-Icon=fluttershy.png
-Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion/tech: Kline Eto, Space Chikun
+Name=Pony Pack 2014 Git Edition
+Description=SA+GF+Reddit+EVE+Ponies
+Icon=colgatestare.png
+Author=Truly, a new age.
 
 [default]
 
@@ -202,6 +202,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! cadancefear.png :cadancefear:
 ! cadancefilly.png :cadancefilly:
 ! cadanceglare.png :cadanceglare:
+! cadancegoogly.png :cadancegoogly:
 ! cadancehappy.png :cadancehappy:
 ! cadancemad.png :cadancemad:
 ! cadanceohgod.png :cadanceohgod: :cadancewtc:
@@ -1164,7 +1165,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! fluttersnoop.gif :fluttersnoop:
 ! fluttersoon.png :fluttersoon:
 ! fluttersrs.png :fluttersrs:
-! flutterstare.png :flutterstare:
+flutterstare.png :flutterstare:
 ! fluttersway.gif :fluttersway:
 ! fluttersweat.png :fluttersweat:
 ! fluttertranquil.png :fluttertranquil:
@@ -1571,6 +1572,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! owl.png :owl:
 ! owlcomeatme.gif :owlcomeatme:
 ! owllod.png :owllod:
+! owlmad.png :owlmad:
 ! owlskeptical.png :owlskeptical:
 ! panic.png :panic:
 ! paperbagprincess.png :paperbagprincess:
@@ -2070,6 +2072,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! spikeshrug.png :spikeshrug:
 ! spikesleep.png :spikesleep:
 ! spikesly.png :spikesly: :spikesoon:
+! spikesmug.png :spikesmug:
 ! spikestare.png :spikestare:
 ! spikeswag.png :spikeswag:
 ! spikeswoon.png :spikeswoon:
@@ -2240,6 +2243,7 @@ Author=Berach Damhain, spyno, jasharin, Lex Lemon, jolanai, Mireidor. Conversion
 ! twicreep.png :twicreep:
 ! twicringe.png :twicringe: :twicower:
 ! twicry.gif :twipout: :twicry:
+! twidance.gif :twidance:
 ! twiderp.gif :twiderp:
 ! twidesk.png :twidesk:
 ! twidwi.png :twidwi:
