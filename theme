@@ -1,6 +1,6 @@
 Name=Pony Pack 2014 Git Edition
 Description=SA+GF+Reddit+EVE+Ponies
-Icon=colgatestare.png
+Icon=minustare.png
 Author=Truly, a new age.
 
 [default]
@@ -419,24 +419,6 @@ Author=Truly, a new age.
 ! colbert.gif :colbert:
 ! colberto.png :colberto:
 ! colbon.gif :shobert: :shobonert: :colbon: :colboshon: :colshobertbon:
-! colgate3.png :colgate3: :minu3:
-! colgateahem.png :colgateahem: :minuahem:
-! colgatebeam.png :colgatebeam: :minubeam:
-! colgatecakes.png :colgatecakes: :minucakes:
-! colgateclop.png :colgateclop: :minuclop:
-! colgateconcern.png :colgateconcern: :minuconcern:
-! colgatecoy.png :colgatecoy: :minucoy:
-! colgatecreep.png :colgatecreep: :minucreep:
-! colgatederp.png :colgatederp: :minuderp:
-! colgatefsjal.png :colgatefsjal: :minufsjal:
-! colgategasp.png :colgategasp: :minugasp:
-! colgatehappy.png :colgatehappy: :minuhappy:
-! colgatelie.png :colgatelie: :minulie:
-! colgateread.png :colgateread: :minuread:
-! colgateshrug.png :colgateshrug: :minushrug:
-! colgatesly.png :colgatesly: :minusly:
-! colgatestare.png :colgatestare: :minustare:
-! colgatetoot.png :colgatetoot: :minutoot:
 ! colvert.gif :colvert:
 ! comeback.gif :comeback:
 ! commissar.gif :commissar:
@@ -1209,6 +1191,25 @@ flutterstare.png :flutterstare:
 ! milk.gif :milk:
 ! milkie.gif :milkie:
 ! milk.png :milk:
+! minu3.png :colgate3: :minu3:
+! minuahem.png :colgateahem: :minuahem:
+! minubeam.png :colgatebeam: :minubeam:
+! minucakes.png :colgatecakes: :minucakes:
+! minuclop.png :colgateclop: :minuclop:
+! minuconcern.png :colgateconcern: :minuconcern:
+! minucoy.png :colgatecoy: :minucoy:
+! minucreep.png :colgatecreep: :minucreep:
+! minuderp.png :colgatederp: :minuderp:
+! minufsjal.png :colgatefsjal: :minufsjal:
+! minugasp.png :colgategasp: :minugasp:
+! minuhappy.png :colgatehappy: :minuhappy:
+! minulie.png :colgatelie: :minulie:
+! minuread.png :colgateread: :minuread:
+! minushrug.png :colgateshrug: :minushrug:
+! minusly.png :colgatesly: :minusly:
+! minustare.png :colgatestare: :minustare:
+! minutoot.png :colgatetoot: :minutoot:
+! minuwat.png :minuwat: :colgatewat:
 ! mittanisar.gif :mittanisar:
 ! mitt.gif :mitt:
 ! mj.gif :mj:
