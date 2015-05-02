@@ -119,6 +119,7 @@ Author=Truly, a new age.
 ! ajsrs.png :ajsrs:
 ! ajstare.png :ajstare:
 ! ajtranquil.png :ajtranquil:
+! ajultramad.png :ajultramad: :ajtriggered:
 ! ajugh.png :ajugh:
 ! ajwhy.png :ajwhy:
 ! ajwink.png :ajwink:
@@ -142,6 +143,10 @@ Author=Truly, a new age.
 ! angry.png :angry:
 ! anime.png :anime:
 ! anttony.gif :anttony:
+! apabeh.png :apabeh:
+! apasad.png :apasad:
+! apaskeptical.png :apaskeptical:
+! apasquint.png :apasquint:
 ! archa2.gif :archa: :archer:
 ! argh.gif :argh:
 ! arghfist.gif :arghfist:
@@ -295,6 +300,7 @@ Author=Truly, a new age.
 ! cabot.png :cabot:
 ! cactilio.gif :cactilio:
 ! cactus.gif :cactus:
+! cadance.png :cadance:
 ! cadancebeam.png :cadancebeam:
 ! cadancebeh.png :cadancebeh:
 ! cadanceconcern.png :cadanceconcern:
@@ -545,6 +551,8 @@ condi.gif :condi:
 ! desdesk.png :desdesk:
 ! deshappy.png :deshappy:
 ! deshugs.png :deshugs:
+! desskeptical.png :desskeptical:
+! dessquint.png :dessquint:
 ! detbriscoe.gif :detbriscoe:
 ! deutschsmug.png :deutschsmug:
 ! devil.gif :devil:
@@ -751,7 +759,7 @@ condi.gif :condi:
 ! flutternom.png :flutternom:
 ! flutterohyou.png :flutterohyou:
 ! flutterokay.png :flutterokay:
-! flutterout.png :flutterout:
+! flutterout.gif :flutterout:
 ! flutterparty.png :flutterparty:
 ! flutterpout.png :flutterpout:
 ! flutterrage.png :flutterrage:
@@ -763,6 +771,7 @@ condi.gif :condi:
 ! fluttersalute.png :fluttersalute:
 ! fluttersheepish.png :fluttersheepish:
 ! fluttershh.png :fluttershh:
+! fluttershobon.png :fluttershobon:
 ! fluttershriek.png :fluttershriek:
 ! fluttershrug.png :fluttershrug:
 ! fluttershy.png :fluttershy: :fluttersquee:
@@ -782,6 +791,7 @@ flutterstare.png :flutterstare:
 ! fluttertranquil.png :fluttertranquil:
 ! fluttertree.png :fluttertree:
 ! flutteruhm.png :flutteruhm:
+! flutterultramad.png :flutterultramad: :fluttertriggered:
 ! flutterwat.png :flutterwat:
 ! flutterwelp.png :flutterwelp:
 ! flutterwingboner.gif :flutterwingboner:
@@ -1105,8 +1115,10 @@ flutterstare.png :flutterstare:
 ! karmacreep.png :karmacreep:
 ! karmadesk.png :karmadesk:
 ! karmadwi.png :karmadwi:
+! karmahappy.png :karmahappy:
 ! karmahello.png :karmahello:
 ! karmahugs.png :karmahugs:
+! karmasquint.png :karmasquint:
 ! karttoon.gif :kartton:
 ! kawaiihitler.png :kawaiihitler: :jph: :kwh:
 ! kd-ratio2.gif :kdratio: :kd:
@@ -1545,12 +1557,14 @@ flutterstare.png :flutterstare:
 ! pinkietoot.png :pinkietoot:
 ! pinkietotherescue.png :pinkietotherescue:
 ! pinkietwitch.png :pinkietwitch:
+! pinkieultramad.png :pinkieultramad: :pinkietriggered:
 ! pinkiev.png :pinkiev:
 ! pinkiewallet.png :pinkiewallet:
 ! pinkiewatchout.png :pinkiewatchout:
 ! pinkiewink.png :pinkiewink:
 ! pinkieword.png :pinkieword:
 ! pinkiewut.png :pinkiewut:
+! pinkieyay.png :pinkieyay:
 ! pipe.gif :pipe:
 ! pirate.gif :pirate: :piratepatch:
 ! pjsalt.png :PJSalt: :pjsalt:
@@ -1690,6 +1704,7 @@ flutterstare.png :flutterstare:
 ! raritysrs.png :raritysrs:
 ! raritystare.png :raritystare:
 ! raritytwitch.png :raritycakes: :raritytwitch:
+! rarityultramad.png :rarityultramad: :raritytriggered:
 ! raritywahaha.png :raritywahaha:
 ! raritywet.png :raritywet:
 ! raritywhine.png :raritywhine:
@@ -1733,6 +1748,7 @@ flutterstare.png :flutterstare:
 ! rdgasp.png :rdgasp:
 ! rdgimme.gif :rddowant: :rdcider:
 ! rdgrin.png :rdgrin:
+! rdgrinch.png :rdgrinch:
 ! rdgross.png :rdgross:
 ! rdgrump.png :rdgrump:
 ! rdhai.png :rdhai:
@@ -1779,6 +1795,7 @@ flutterstare.png :flutterstare:
 ! rdtrauma.png :rdtrauma:
 ! rdtwitch.png :rdtwitch:
 ! rdultrafrown.png :rdultrafrown:
+! rdultramad.png :rdultramad: :rdtriggered:
 ! rdvictory.png :rdvictory:
 ! rdwat.png :rdwat:
 ! rdwhat.png :rdwhat:
@@ -2095,6 +2112,7 @@ flutterstare.png :flutterstare:
 ! stare.gif :stare:
 ! staredog.gif :staredog: :dogstare:
 ! starrage.png :starrage:
+! startriggered.png :startriggered:
 ! stat.gif :stat:
 ! steam.gif :steam:
 ! steroiddisappoint.png :steroiddisappoint: :roiddisappoint: :snowflakedisappoint:
@@ -2173,6 +2191,7 @@ flutterstare.png :flutterstare:
 ! tali.gif :tali:
 ! tank.png :tank:
 ! tastykake.gif :tastykake:
+! tavi0.png :tavi0:
 ! taviawesome.png :taviawesome:
 ! tavibeam.png :tavibeam:
 ! tavibeh.png :tavibeh:
@@ -2327,11 +2346,13 @@ flutterstare.png :flutterstare:
 ! twileap.png :twileap:
 ! twilisten.png :twilisten:
 ! twilod.png :twilod:
+! twimad.png :twimad:
 ! twimaximumoverpone.gif :twimaximumoverpone:
 ! twimonkey.gif :twimonkey:
 ! twinom.png :twinom:
 ! twinosleep.png :twinosleep:
 ! twiohyou.png :twiohyou:
+! twipancake.png :twipancake:
 ! twiplead.png :twiplead:
 ! twipleased.png :twipleased:
 ! twiprecious.gif :twiprecious:
@@ -2359,7 +2380,9 @@ flutterstare.png :flutterstare:
 ! twistonk.png :twistonk:
 ! twisway.gif :twisway:
 ! twithink.png :twithink:
+! twitranquil.png :twitranquil:
 ! twiugh.png :twiugh:
+! twiultramad.png :twiultramad: :twitriggered:
 ! twiwelp.png :twiwelp:
 ! twiwet.png :twiwet:
 ! twiwhy.png :twiwhy:
@@ -2401,6 +2424,7 @@ flutterstare.png :flutterstare:
 ! vinylbass.png :vinylbass:
 ! vinylbeam.png :vinylbeam:
 ! vinylbeh.png :vinylbeh:
+! vinylbucket.png :vinylbucket:
 ! vinylcakes.png :vinylcakes:
 ! vinylclop.png :vinylclop:
 ! vinylcreep.png :vinylcreep:
