@@ -1,7 +1,7 @@
-Name=Pony Pack 2016 Shimglam Edition
+Name=Pony Pack 2017
 Description=SA+GF+Reddit+EVE+Ponies
-Icon=sunsetshimmer.png
-Author=Redeemed villains ahoy!
+Icon=woonablood.png
+Author=bloodbloodbloodbloodbloodbloodbloodblood
 
 [default]
 ! 04.gif :regd04:
@@ -56,6 +56,7 @@ Author=Redeemed villains ahoy!
 ! abpirate.png :abpirate:
 ! abrelax.png :abrelax:
 ! absad.png :absad:
+! absanta.png :absanta: :santabloom:
 ! absaywat.png :abthreaten:
 ! abshobon.png :abshobon:
 ! abshrug.png :abshrug:
@@ -109,6 +110,7 @@ Author=Redeemed villains ahoy!
 ! ajohyou.png :ajohyou:
 ! ajpride.png :ajpride:
 ! ajsalute.png :ajsalute:
+! ajsanta.png :ajsanta: :santajack:
 ! ajsheepish.png :ajsheepish:
 ! ajshrug.png :ajshrug:
 ! ajskeptical.png :ajskeptical:
@@ -347,6 +349,7 @@ Author=Redeemed villains ahoy!
 ! ccp2.gif :ccp: :ccp2:
 ! cedric.png :cedric:
 ! cefte.gif :cefte:
+! ceilingluna.png :ceilingluna: :lunaceiling:
 ! celestiaaaaa.png :celestiaaaaa:
 ! celestiaalfalfa.png :celestiaalfalfa:
 ! celestiabeam.png :celestiabeam:
@@ -526,6 +529,7 @@ condi.gif :condi:
 ! dealwithit.jpg :dealwithit:
 ! deltasilon.gif :deltasilon: :delta:
 ! denmark.gif :denmark:
+! densemotherfucker.png :densemotherfucker:
 ! denzel.gif :denzel:
 ! derf.gif :derf:
 ! derp.gif :derp:
@@ -782,6 +786,7 @@ condi.gif :condi:
 ! flutterlod.png :flutterlod:
 ! fluttermad.png :fluttermad:
 ! flutternom.png :flutternom:
+! flutternope.png :flutternope:
 ! flutterohyou.png :flutterohyou:
 ! flutterohme.png :flutterohme:
 ! flutterokay.png :flutterokay:
@@ -1201,46 +1206,50 @@ flutterstare.png :flutterstare:
 ! kiss.png (K) (k)
 ! kittyjig.gif :kittyjig:
 ! komolov.gif :komolov:
+! korragay.png :korragay: :korragayseal:
 ! krad.gif :kradold:
 ! krad2.gif :krad:
 ! kraken.gif :krakken:
 ! krakentoot.gif :krakentoot:
 ! kratos.gif :kratos:
 ! kreygasm.png :Kreygasm:
-! laceAim.png laceAim :laceAim: laceaim :laceaim:
-! laceDown.png laceDown :laceDown: lacedown :lacedown:
-! laceFail.png laceFail :laceFail: lacefail :lacefail:
-! laceFood.png laceFood :laceFood: lacefood :lacefood:
-! laceGasm.png laceGasm :laceGasm: lacegasm :lacegasm:
-! laceH.png laceH :laceH: laceh :laceh:
-! laceHello.png laceHello :laceHello: lacehello :lacehello:
-! laceHug.png laceHug :laceHug: lacehug :lacehug:
-! laceHype.png laceHype :laceHype: lacehype :lacehype:
-! laceLOL.png laceLOL :laceLOL: lacelol :lacelol:
-! laceLewd.png laceLewd :laceLewd: lacelewd :lacelewd:
-! laceLoud.png laceLoud :laceLoud: laceloud :laceloud:
-! laceLove.png laceLove :laceLove: lacelove :lacelove:
-! laceMP.png laceMP :laceMP: lacemp :lacemp:
-! laceMeeko.png laceMeeko :laceMeeko: lacemeeko :lacemeeko:
-! laceNo.png laceNo :laceNo: laceno :laceno:
-! laceOMG.png laceOMG :laceOMG: laceomg :laceomg:
-! lacePls.png lacePls :lacePls: lacepls :lacepls:
-! lacePog.png lacePog :lacePog: lacepog :lacepog:
-! lacePuff.png lacePuff :lacePuff: lacepuff :lacepuff:
-! lacePuke.png lacePuke :lacePuke: lacepuke :lacepuke:
-! laceRIP.png laceRIP :laceRIP: lacerip :lacerip:
-! laceRage.png laceRage :laceRage: lacerage :lacerage:
-! laceSalt.png laceSalt :laceSalt: lacesalt :lacesalt:
-! laceSalute.png laceSalute :laceSalute: lacesalute :lacesalute:
-! laceShrug.png laceShrug :laceShrug: laceshrug :laceshrug:
-! laceTCKT.png laceTCKT :laceTCKT: lacetckt :lacetckt:
-! laceTears.png laceTears :laceTears: lacetears :lacetears:
-! laceTen.png laceTen :laceTen: laceten :laceten:
-! laceTrig.png laceTrig :laceTrig: lacetrig :lacetrig:
-! laceUp.png laceUp :laceUp: laceup :laceup:
-! laceWave.png laceWave :laceWave: lacewave :lacewave:
-! laceWink.png laceWink :laceWink: lacewink :lacewink:
-! laceWTF.png laceWTF :laceWTF: lacewtf :lacewtf:
+! laceAim.png laceAim :laceAim: :laceaim:
+! laceDown.png laceDown :laceDown: :lacedown:
+! laceFail.png laceFail :laceFail: :lacefail:
+! laceFood.png laceFood :laceFood: :lacefood:
+! laceGasm.png laceGasm :laceGasm: :lacegasm:
+! laceH.png :laceH: :laceh:
+! laceHello.png :laceHello: :lacehello:
+! laceHug.png :laceHug: :lacehug:
+! laceHype.png :laceHype: :lacehype:
+! laceLOL.png :laceLOL: :lacelol:
+! laceLewd.png :laceLewd: :lacelewd:
+! laceLoud.png :laceLoud: :laceloud:
+! laceLove.png :laceLove: :lacelove:
+! laceMP.png :laceMP: :lacemp:
+! laceMeeko.png :laceMeeko: :lacemeeko:
+! laceNo.png :laceNo: :laceno:
+! laceOMG.png :laceOMG: :laceomg:
+! lacePls.png :lacePls: :lacepls:
+! lacePog.png :lacePog: :lacepog:
+! lacePuff.png :lacePuff: :lacepuff:
+! lacePuke.png :lacePuke: :lacepuke:
+! laceRIP.png :laceRIP: :lacerip:
+! laceRage.png :laceRage: :lacerage:
+! laceSad.png :laceSad: :lacesad:
+! laceSalt.png :laceSalt: :lacesalt:
+! laceSalute.png :laceSalute: :lacesalute:
+! laceShrug.png :laceShrug: :laceshrug:
+! laceT.png :laceT: :lacet:
+! laceTCKT.png :laceTCKT: :lacetckt:
+! laceTears.png :laceTears: :lacetears:
+! laceTen.png :laceTen: :laceten:
+! laceTrig.png :laceTrig: :lacetrig:
+! laceUp.png :laceUp: :laceup:
+! laceWTF.png :laceWTF: :lacewtf:
+! laceWave.png :laceWave: :lacewave:
+! laceWink.png :laceWink: :lacewink:
+! laceYay.png :laceYay: :laceyay:
 ! laffbaguette.gif :baglaff:
 ! laffer.gif :laffer:
 ! laffo.gif :laffo:
@@ -1251,6 +1260,7 @@ flutterstare.png :flutterstare:
 ! leekspin.gif :leeks: :leaks:
 ! legion.gif :legion:
 ! leshibe.jpg :leshibe:
+! leviosa.png :leviosa: :leviosaa: :leviosaaa: :leviosaaaa: :leviosaaaaa:
 ! liara.gif :liara:
 ! lied.png :ilied:
 ! lilyhorror.png :lilyhorror:
@@ -1406,6 +1416,7 @@ flutterstare.png :flutterstare:
 ! minugasp.png :colgategasp: :minugasp:
 ! minuhappy.png :colgatehappy: :minuhappy:
 ! minulie.png :colgatelie: :minulie:
+! minumad.png :minumad:
 ! minuread.png :colgateread: :minuread:
 ! minushrug.png :colgateshrug: :minushrug:
 ! minusly.png :colgatesly: :minusly:
@@ -1431,6 +1442,50 @@ flutterstare.png :flutterstare:
 ! montoliosiren2.gif :montoliosiren2:
 ! moof.gif :moof:
 ! moon.png (S)
+! moon2AWW.png moon2AWW :moon2AWW: :moon2aww:
+! moon2BANNED.png moon2BANNED :moon2BANNED: :moon2banned:
+! moon2BOOP.png moon2BOOP :moon2BOOP: :moon2boop:
+! moon2CHOKE.png moon2CHOKE :moon2CHOKE: :moon2choke:
+! moon2COOL.png moon2COOL :moon2COOL: :moon2cool:
+! moon2CREEP.png moon2CREEP :moon2CREEP: :moon2creep:
+! moon2CUTE.png moon2CUTE :moon2CUTE: :moon2cute:
+! moon2DUMB.png moon2DUMB :moon2DUMB: :moon2dumb:
+! moon2FEELS.png moon2FEELS :moon2FEELS: :moon2feels:
+! moon2GASM.png moon2GASM :moon2GASM: :moon2gasm:
+! moon2GOOD.png moon2GOOD :moon2GOOD: :moon2good:
+! moon2GOTTEML.png moon2GOTTEML :moon2GOTTEML: :moon2gotteml:
+! moon2GOTTEMR.png moon2GOTTEMR :moon2GOTTEMR: :moon2gottemr:
+! moon2GUMS.png moon2GUMS :moon2GUMS: :moon2gums:
+! moon2HAHAA.png moon2HAHAA :moon2HAHAA: :moon2hahaa:
+! moon2HEART.png moon2HEART :moon2HEART: :moon2heart:
+! moon2HEY.png moon2HEY :moon2HEY: :moon2hey:
+! moon2KISSES.png moon2KISSES :moon2KISSES: :moon2kisses:
+! moon2LUL.png moon2LUL :moon2LUL: :moon2lul:
+! moon2LULT.png moon2LULT :moon2LULT: :moon2lult:
+! moon2MLADY.png moon2MLADY :moon2MLADY: :moon2mlady:
+! moon2MLEM.png moon2MLEM :moon2MLEM: :moon2mlem:
+! moon2OMG.png moon2OMG :moon2OMG: :moon2omg:
+! moon2OWO.png moon2OWO :moon2OWO: :moon2owo:
+! moon2PACHI.png moon2PACHI :moon2PACHI: :moon2pachi:
+! moon2RAGE.png moon2RAGE :moon2RAGE: :moon2rage:
+! moon2RIP.png moon2RIP :moon2RIP: :moon2rip:
+! moon2RLY.png moon2RLY :moon2RLY: :moon2rly:
+! moon2ROASTED.png moon2ROASTED :moon2ROASTED: :moon2roasted:
+! moon2SATAN.png moon2SATAN :moon2SATAN: :moon2satan:
+! moon2SHRUG.png moon2SHRUG :moon2SHRUG: :moon2shrug:
+! moon2SLEEP.png moon2SLEEP :moon2SLEEP: :moon2sleep:
+! moon2SMUG.png moon2SMUG :moon2SMUG: :moon2smug:
+! moon2TEABAG.png moon2TEABAG :moon2TEABAG: :moon2teabag:
+! moon2TEEHEE.png moon2TEEHEE :moon2TEEHEE: :moon2teehee:
+! moon2THUMP.png moon2THUMP :moon2THUMP: :moon2thump:
+! moon2TRIGGERED.png moon2TRIGGERED :moon2TRIGGERED: :moon2triggered:
+! moon2VAPE.png moon2VAPE :moon2VAPE: :moon2vape:
+! moon2WHINE.png moon2WHINE :moon2WHINE: :moon2whine:
+! moon2WHY.png moon2WHY :moon2WHY: :moon2why:
+! moon2WINKY.png moon2WINKY :moon2WINKY: :moon2winky:
+! moon2WOO.png moon2WOO :moon2WOO: :moon2woo:
+! moon2WOOP.png moon2WOOP :moon2WOOP: :moon2woop:
+! moon2WUT.png moon2WUT :moon2WUT: :moon2wut:
 ! moore.gif :moore:
 ! mordin.gif :mordin:
 ! moreevil.gif :moreevil:
@@ -1538,12 +1593,24 @@ flutterstare.png :flutterstare:
 ! osu.gif :osu:
 ! overtheline.png :overtheline: :dudegun:
 ! ovr.gif :ovr:
+! owdva.png :owdva:
+! owgenji.png :owgenji:
+! owhanzo.png :owhanzo:
+! owjunkrat.png :owjunkrat:
 ! owl.png :owl:
 ! owlcomeatme.gif :owlcomeatme:
 ! owllod.png :owllod:
 ! owlmad.png :owlmad:
 ! owlskeptical.png :owlskeptical:
+! owlucio.png :owlucio:
 ! owned.gif :owned:
+! owpharah.png :owpharah:
+! owreaper.png :owreaper:
+! owroadhog.png :owroadhog:
+! ows76.png :ows76:
+! owtracer.png :owtracer:
+! owwidowmaker.png :owwidowmaker:
+! owwinston.png :owwinston:
 ! p.gif :p: :P :p
 ! page3.gif :page3: :page3snypa: :p3snypa:
 ! page4.gif :page4: :p4snypa: :page4snypa:
@@ -1553,6 +1620,7 @@ flutterstare.png :flutterstare:
 ! paperbagprincess.png :paperbagprincess:
 ! parrot.gif :parrot:
 ! parrotparty.gif :parrotparty: :pp:
+! parrotupvote.gif :parrotupvote:
 ! partycannon.png :partycannon:
 ! patdance.gif :patdance:
 ! patriot.gif :patriot: :gfpatriot: :usapatriot:
@@ -1651,6 +1719,7 @@ flutterstare.png :flutterstare:
 ! pinkierofl.gif :pinkierofl:
 ! pinkierutb.gif :pinkierutb:
 ! pinkiesad.png :pinkiesad:
+! pinkiesanta.png :pinkiesanta: :santapie:
 ! pinkiesatisfied.png :pinkiesatisfied:
 ! pinkiescheme.png :pinkiescheme:
 ! pinkiesheepish.png :pinkiesheepish:
@@ -1810,6 +1879,7 @@ flutterstare.png :flutterstare:
 ! rarityrage.png :rarityrage:
 ! rarityread.png :rarityread:
 ! raritysad.png :raritysad:
+! raritysanta.png :raritysanta:
 ! raritysauce.png :raritysauce:
 ! raritysheepish.png :raritysheepish:
 ! rarityshrug.png :rarityshrug:
@@ -1894,6 +1964,7 @@ flutterstare.png :flutterstare:
 ! rdsad.png :rdsad:
 ! rdsalute.png :rdsalute:
 ! rdsanic.gif :rdsanic: :rdtumble:
+! rdsanta.png :rdsanta: :santadash:
 ! rdscheme.png :rdscheme:
 ! rdshame.png :rdshame:
 ! rdsheepish.gif :rdsheepish:
@@ -2055,6 +2126,7 @@ flutterstare.png :flutterstare:
 ! scootnom.png :scootnom:
 ! scootohyou.png :scootohyou:
 ! scootsad.png :scootsad:
+! scootsanta.png :scootsanta: :santaloo:
 ! scootsheepish.png :scootsheepish:
 ! scootshrug.png :scootshrug:
 ! scootsmeel.png :scootsmeel:
@@ -2074,6 +2146,7 @@ flutterstare.png :flutterstare:
 ! sghai.png :sghai:
 ! sghappy.png :sghappy:
 ! sghugs.png :sghugs:
+! sgsanta.png :sgsanta: :santaglimmer:
 ! sgsmug.png :sgsmug:
 ! sgwhy.png :sgwhy:
 ! sgwut.png :sgwut:
@@ -2215,6 +2288,7 @@ flutterstare.png :flutterstare:
 ! spikenervous.png :spikenervous:
 ! spikeno.png :spikeno:
 ! spikepushy.png :spikepushy:
+! spikesanta.png :spikesanta:
 ! spikescheme.png :spikescheme:
 ! spikesecret.png :spikesecret:
 ! spikesheepish.png :spikesheepish:
@@ -2241,6 +2315,7 @@ flutterstare.png :flutterstare:
 ! ssh.gif :ssh:
 ! ssj.gif :ssj:
 ! sss.gif :sss:
+! sssanta.png :sssanta: :santashimmer:
 ! ssskeptical.png :ssskeptical:
 ! sssmile.png :sssmile:
 ! sssmirk.png :sssmirk:
@@ -2297,6 +2372,7 @@ flutterstare.png :flutterstare:
 ! sweep.gif :sweep:
 ! sweetie.png :sweetie:
 ! sweetieawesome.png :sweetieawesome:
+! sweetiebeh.png :sweetiebeh:
 ! sweetiecrack.png :sweetiecrack:
 ! sweetiecreep.png :sweetiecreep:
 ! sweetiederp.png :sweetiederp:
@@ -2304,6 +2380,7 @@ flutterstare.png :flutterstare:
 ! sweetiedust.png :sweetiedust:
 ! sweetieeyes.png :sweetieeyes:
 ! sweetiefsjal.png :sweetiefsjal:
+! sweetiefoodsiren.gif :sweetiefoodsiren: :sweetietacosiren:
 ! sweetieglee.png :sweetieglee:
 ! sweetieidea.png :sweetieidea:
 ! sweetielod.png :sweetielod:
@@ -2313,6 +2390,7 @@ flutterstare.png :flutterstare:
 ! sweetiepleased.png :sweetiepleased:
 ! sweetieread.png :sweetieread: :sweetiebook:
 ! sweetiesalute.png :sweetiesalute:
+! sweetiesanta.png :sweetiesanta: :santabelle:
 ! sweetiescheme.png :sweetiescheme:
 ! sweetieshake.gif :sweetieshake:
 ! sweetieshrug.png :sweetieshrug:
@@ -2432,6 +2510,7 @@ flutterstare.png :flutterstare:
 ! trixiehello.png :trixiehello:
 ! trixielol.png :trixielol:
 ! trixiepower.png :trixiepower:
+! trixiesanta.png :trixiesanta: :thegreatandpowerfulsanta:
 ! trixiescheme.png :trixiescheme:
 ! trixiesheepish.png :trixiesheepish:
 ! trixieshrug.png :trixieshrug:
@@ -2478,6 +2557,8 @@ flutterstare.png :flutterstare:
 ! twidance.gif :twidance:
 ! twiderp.gif :twiderp:
 ! twidesk.png :twidesk:
+! twidrool.gif :twidrool:
+! twidrunkle.png :twidrunkle: :twilightdrunkle:
 ! twidwi.png :twidwi:
 ! twievil.png :twievil:
 ! twieyes.png :twieyes:
@@ -2517,7 +2598,9 @@ flutterstare.png :flutterstare:
 ! twirutb.gif :twirutb:
 ! twisad.png :twisad:
 ! twisalute.png :twisalute:
+! twisanta.png :twisanta: :santasparkle:
 ! twischeme.png :twischeme:
+! twiscience.png :twiscience:
 ! twisheepish.png :twisheepish:
 ! twishobon.png :twishobon:
 ! twishock.png :twishock:
@@ -2545,6 +2628,7 @@ flutterstare.png :flutterstare:
 ! twiwizard.png :twiwizard:
 ! twiwut.png :twiwut:
 ! twiyell.png :twiyell:
+! twiyes.png :twiyes:
 ! ubisoft.gif :ubisoft:
 ! ughh.gif :ughh: :facepalm:
 ! uhaul.gif :uhaul:
@@ -2642,8 +2726,10 @@ flutterstare.png :flutterstare:
 ! wom.gif :wom:
 ! woof.gif :woof:
 ! wookie.gif :wookie:
+! woonaaaaa.png :woonaaaaa:
 ! woonaalfalfa.png :woonaalfalfa:
 ! woonaawesome.png :woonaawesome:
+! woonablood.png :woonablood: :woonabloodfilly:
 ! woonabrush.png :woonabrush:
 ! woonacakes.png :woonacakes:
 ! woonaclop.png :woonaclop:
