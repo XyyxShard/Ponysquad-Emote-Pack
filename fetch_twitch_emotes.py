@@ -14,6 +14,7 @@ EMOTE_URI = 'https://static-cdn.jtvnw.net/emoticons/v1/%d/2.0'
 
 channels = [
     '37524427', # LacedUpLauren
+    '71963871', # Dead_Flip
 ]
 
 def download_file(target, url, headers=None):
