@@ -1223,6 +1223,7 @@ flutterstare.png :flutterstare:
 ! kreygasm.png :Kreygasm:
 ! laceAim.png :laceAim: :laceaim:
 ! laceBlank.png :laceBlank: :laceblank:
+! laceBlind.png :laceBlind: :laceblind:
 ! laceCS.png :laceCS: :lacecs:
 ! laceCash.png :laceCash: :lacecash:
 ! laceCheer1.gif :laceCheer1: :lacecheer1:
@@ -1230,7 +1231,9 @@ flutterstare.png :flutterstare:
 ! laceCheer1000.gif :laceCheer1000: :lacecheer1000:
 ! laceCheer10000.gif :laceCheer10000: :lacecheer10000:
 ! laceCheer5000.gif :laceCheer5000: :lacecheer5000:
+! laceCorn.png :laceCorn: :lacecorn:
 ! laceDown.png :laceDown: :lacedown:
+! laceE.png :laceE: :lacee:
 ! laceFail.png :laceFail: :lacefail:
 ! laceFood.png :laceFood: :lacefood:
 ! laceGasm.png :laceGasm: :lacegasm:
@@ -1238,6 +1241,7 @@ flutterstare.png :flutterstare:
 ! laceHello.png :laceHello: :lacehello:
 ! laceHug.png :laceHug: :lacehug:
 ! laceHype.png :laceHype: :lacehype:
+! laceL.png :laceL: :lacel:
 ! laceLOL.png :laceLOL: :lacelol:
 ! laceLewd.png :laceLewd: :lacelewd:
 ! laceLoud.png :laceLoud: :laceloud:
@@ -1250,8 +1254,10 @@ flutterstare.png :flutterstare:
 ! lacePog.png :lacePog: :lacepog:
 ! lacePuff.png :lacePuff: :lacepuff:
 ! lacePuke.png :lacePuke: :lacepuke:
+! laceREE.png :laceREE: :laceree:
 ! laceRIP.png :laceRIP: :lacerip:
 ! laceRage.png :laceRage: :lacerage:
+! laceS.png :laceS: :laces:
 ! laceSad.png :laceSad: :lacesad:
 ! laceSalt.png :laceSalt: :lacesalt:
 ! laceSalute.png :laceSalute: :lacesalute:
