@@ -744,6 +744,25 @@ condi.gif :condi:
 ! fleurtranquil.png :fleurtranquil:
 ! fleurwary.png :fleurwary:
 ! fleurwut.png :fleurwut:
+! flipTilt.png :flipTilt: :fliptilt:
+! flipRflip.png :flipRflip: :fliprflip:
+! flipDeal.png :flipDeal: :flipdeal:
+! flipLaz.png :flipLaz: :fliplaz:
+! flipDrain.png :flipDrain: :flipdrain:
+! flipLflip.png :flipLflip: :fliplflip:
+! flipPop.png :flipPop: :flippop:
+! flipMulti.png :flipMulti: :flipmulti:
+! flipDTK.png :flipDTK: :flipdtk:
+! flipJP.png :flipJP: :flipjp:
+! flipBT.png :flipBT: :flipbt:
+! flipBTR.png :flipBTR: :flipbtr:
+! flipPin.png :flipPin: :flippin:
+! flipBall.png :flipBall: :flipball:
+! flipLUL.png :flipLUL: :fliplul:
+! flipPBR.png :flipPBR: :flippbr:
+! flipHEY.png :flipHEY: :fliphey:
+! flipMEGALUL.png :flipMEGALUL: :flipmegalul:
+! flipGPop.png :flipGPop: :flipgpop:
 ! fluffhappy.png :fluffhappy:
 ! fluffparrot.gif :fluffparrot: :fluffuwotm8: :fluffdance:
 ! fluffsquee.png :fluffsquee:
@@ -1223,6 +1242,7 @@ flutterstare.png :flutterstare:
 ! kreygasm.png :Kreygasm:
 ! laceAim.png :laceAim: :laceaim:
 ! laceBlank.png :laceBlank: :laceblank:
+! laceBlind.png :laceBlind: :laceblind:
 ! laceCS.png :laceCS: :lacecs:
 ! laceCash.png :laceCash: :lacecash:
 ! laceCheer1.gif :laceCheer1: :lacecheer1:
@@ -1230,7 +1250,9 @@ flutterstare.png :flutterstare:
 ! laceCheer1000.gif :laceCheer1000: :lacecheer1000:
 ! laceCheer10000.gif :laceCheer10000: :lacecheer10000:
 ! laceCheer5000.gif :laceCheer5000: :lacecheer5000:
+! laceCorn.png :laceCorn: :lacecorn:
 ! laceDown.png :laceDown: :lacedown:
+! laceE.png :laceE: :lacee:
 ! laceFail.png :laceFail: :lacefail:
 ! laceFood.png :laceFood: :lacefood:
 ! laceGasm.png :laceGasm: :lacegasm:
@@ -1238,6 +1260,7 @@ flutterstare.png :flutterstare:
 ! laceHello.png :laceHello: :lacehello:
 ! laceHug.png :laceHug: :lacehug:
 ! laceHype.png :laceHype: :lacehype:
+! laceL.png :laceL: :lacel:
 ! laceLOL.png :laceLOL: :lacelol:
 ! laceLewd.png :laceLewd: :lacelewd:
 ! laceLoud.png :laceLoud: :laceloud:
@@ -1250,8 +1273,10 @@ flutterstare.png :flutterstare:
 ! lacePog.png :lacePog: :lacepog:
 ! lacePuff.png :lacePuff: :lacepuff:
 ! lacePuke.png :lacePuke: :lacepuke:
+! laceREE.png :laceREE: :laceree:
 ! laceRIP.png :laceRIP: :lacerip:
 ! laceRage.png :laceRage: :lacerage:
+! laceS.png :laceS: :laces:
 ! laceSad.png :laceSad: :lacesad:
 ! laceSalt.png :laceSalt: :lacesalt:
 ! laceSalute.png :laceSalute: :lacesalute:
@@ -1461,50 +1486,50 @@ flutterstare.png :flutterstare:
 ! montoliosiren2.gif :montoliosiren2:
 ! moof.gif :moof:
 ! moon.png (S)
-! moon2AWW.png moon2AWW :moon2AWW: :moon2aww:
-! moon2BANNED.png moon2BANNED :moon2BANNED: :moon2banned:
-! moon2BOOP.png moon2BOOP :moon2BOOP: :moon2boop:
-! moon2CHOKE.png moon2CHOKE :moon2CHOKE: :moon2choke:
-! moon2COOL.png moon2COOL :moon2COOL: :moon2cool:
-! moon2CREEP.png moon2CREEP :moon2CREEP: :moon2creep:
-! moon2CUTE.png moon2CUTE :moon2CUTE: :moon2cute:
-! moon2DUMB.png moon2DUMB :moon2DUMB: :moon2dumb:
-! moon2FEELS.png moon2FEELS :moon2FEELS: :moon2feels:
-! moon2GASM.png moon2GASM :moon2GASM: :moon2gasm:
-! moon2GOOD.png moon2GOOD :moon2GOOD: :moon2good:
-! moon2GOTTEML.png moon2GOTTEML :moon2GOTTEML: :moon2gotteml:
-! moon2GOTTEMR.png moon2GOTTEMR :moon2GOTTEMR: :moon2gottemr:
-! moon2GUMS.png moon2GUMS :moon2GUMS: :moon2gums:
-! moon2HAHAA.png moon2HAHAA :moon2HAHAA: :moon2hahaa:
-! moon2HEART.png moon2HEART :moon2HEART: :moon2heart:
-! moon2HEY.png moon2HEY :moon2HEY: :moon2hey:
-! moon2KISSES.png moon2KISSES :moon2KISSES: :moon2kisses:
-! moon2LUL.png moon2LUL :moon2LUL: :moon2lul:
-! moon2LULT.png moon2LULT :moon2LULT: :moon2lult:
-! moon2MLADY.png moon2MLADY :moon2MLADY: :moon2mlady:
-! moon2MLEM.png moon2MLEM :moon2MLEM: :moon2mlem:
-! moon2OMG.png moon2OMG :moon2OMG: :moon2omg:
-! moon2OWO.png moon2OWO :moon2OWO: :moon2owo:
-! moon2PACHI.png moon2PACHI :moon2PACHI: :moon2pachi:
-! moon2RAGE.png moon2RAGE :moon2RAGE: :moon2rage:
-! moon2RIP.png moon2RIP :moon2RIP: :moon2rip:
-! moon2RLY.png moon2RLY :moon2RLY: :moon2rly:
-! moon2ROASTED.png moon2ROASTED :moon2ROASTED: :moon2roasted:
-! moon2SATAN.png moon2SATAN :moon2SATAN: :moon2satan:
-! moon2SHRUG.png moon2SHRUG :moon2SHRUG: :moon2shrug:
-! moon2SLEEP.png moon2SLEEP :moon2SLEEP: :moon2sleep:
-! moon2SMUG.png moon2SMUG :moon2SMUG: :moon2smug:
-! moon2TEABAG.png moon2TEABAG :moon2TEABAG: :moon2teabag:
-! moon2TEEHEE.png moon2TEEHEE :moon2TEEHEE: :moon2teehee:
-! moon2THUMP.png moon2THUMP :moon2THUMP: :moon2thump:
-! moon2TRIGGERED.png moon2TRIGGERED :moon2TRIGGERED: :moon2triggered:
-! moon2VAPE.png moon2VAPE :moon2VAPE: :moon2vape:
-! moon2WHINE.png moon2WHINE :moon2WHINE: :moon2whine:
-! moon2WHY.png moon2WHY :moon2WHY: :moon2why:
-! moon2WINKY.png moon2WINKY :moon2WINKY: :moon2winky:
-! moon2WOO.png moon2WOO :moon2WOO: :moon2woo:
-! moon2WOOP.png moon2WOOP :moon2WOOP: :moon2woop:
-! moon2WUT.png moon2WUT :moon2WUT: :moon2wut:
+! moon2AWW.png :moon2AWW: :moon2aww:
+! moon2BANNED.png :moon2BANNED: :moon2banned:
+! moon2BOOP.png :moon2BOOP: :moon2boop:
+! moon2CHOKE.png :moon2CHOKE: :moon2choke:
+! moon2COOL.png :moon2COOL: :moon2cool:
+! moon2CREEP.png :moon2CREEP: :moon2creep:
+! moon2CUTE.png :moon2CUTE: :moon2cute:
+! moon2DUMB.png :moon2DUMB: :moon2dumb:
+! moon2FEELS.png :moon2FEELS: :moon2feels:
+! moon2GASM.png :moon2GASM: :moon2gasm:
+! moon2GOOD.png :moon2GOOD: :moon2good:
+! moon2GOTTEML.png :moon2GOTTEML: :moon2gotteml:
+! moon2GOTTEMR.png :moon2GOTTEMR: :moon2gottemr:
+! moon2GUMS.png :moon2GUMS: :moon2gums:
+! moon2HAHAA.png :moon2HAHAA: :moon2hahaa:
+! moon2HEART.png :moon2HEART: :moon2heart:
+! moon2HEY.png :moon2HEY: :moon2hey:
+! moon2KISSES.png :moon2KISSES: :moon2kisses:
+! moon2LUL.png :moon2LUL: :moon2lul:
+! moon2LULT.png :moon2LULT: :moon2lult:
+! moon2MLADY.png :moon2MLADY: :moon2mlady:
+! moon2MLEM.png :moon2MLEM: :moon2mlem:
+! moon2OMG.png :moon2OMG: :moon2omg:
+! moon2OWO.png :moon2OWO: :moon2owo:
+! moon2PACHI.png :moon2PACHI: :moon2pachi:
+! moon2RAGE.png :moon2RAGE: :moon2rage:
+! moon2RIP.png :moon2RIP: :moon2rip:
+! moon2RLY.png :moon2RLY: :moon2rly:
+! moon2ROASTED.png :moon2ROASTED: :moon2roasted:
+! moon2SATAN.png :moon2SATAN: :moon2satan:
+! moon2SHRUG.png :moon2SHRUG: :moon2shrug:
+! moon2SLEEP.png :moon2SLEEP: :moon2sleep:
+! moon2SMUG.png :moon2SMUG: :moon2smug:
+! moon2TEABAG.png :moon2TEABAG: :moon2teabag:
+! moon2TEEHEE.png :moon2TEEHEE: :moon2teehee:
+! moon2THUMP.png :moon2THUMP: :moon2thump:
+! moon2TRIGGERED.png :moon2TRIGGERED: :moon2triggered:
+! moon2VAPE.png :moon2VAPE: :moon2vape:
+! moon2WHINE.png :moon2WHINE: :moon2whine:
+! moon2WHY.png :moon2WHY: :moon2why:
+! moon2WINKY.png :moon2WINKY: :moon2winky:
+! moon2WOO.png :moon2WOO: :moon2woo:
+! moon2WOOP.png :moon2WOOP: :moon2woop:
+! moon2WUT.png :moon2WUT: :moon2wut:
 ! moore.gif :moore:
 ! mordin.gif :mordin:
 ! moreevil.gif :moreevil:
@@ -2685,6 +2710,30 @@ flutterstare.png :flutterstare:
 ! ussr.gif :ussr:
 ! uwot.png :uwot:
 ! v.gif :v:
+! valeLove.png :valeLove: :valelove:
+! valeCry.png :valeCry: :valecry:
+! valeGrrr.png :valeGrrr: :valegrrr:
+! valeShrug.png :valeShrug: :valeshrug:
+! valeLurk.png :valeLurk: :valelurk:
+! valeThink.png :valeThink: :valethink:
+! valeGiggle.png :valeGiggle: :valegiggle:
+! valeYo.png :valeYo: :valeyo:
+! valeGG.png :valeGG: :valegg:
+! valeHype.png :valeHype: :valehype:
+! valeFail.png :valeFail: :valefail:
+! valeDabL.png :valeDabL: :valedabl:
+! valeDabR.png :valeDabR: :valedabr:
+! valeHug.png :valeHug: :valehug:
+! valeGasm.png :valeGasm: :valegasm:
+! valeBlush.png :valeBlush: :valeblush:
+! valeRIP.png :valeRIP: :valerip:
+! valeSmug.png :valeSmug: :valesmug:
+! valeEdgy.png :valeEdgy: :valeedgy:
+! valeNano.png :valeNano: :valenano:
+! valeHugged.png :valeHugged: :valehugged:
+! valeBattle.png :valeBattle: :valebattle:
+! valeWave.png :valeWave: :valewave:
+! valeValeHealsGoodMan.png :HealsGoodMan: :healsgoodman:
 ! valvebeta.png :valvebeta:
 ! vampire.png :vampire:
 ! vd.gif :vd:
