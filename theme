@@ -744,25 +744,25 @@ condi.gif :condi:
 ! fleurtranquil.png :fleurtranquil:
 ! fleurwary.png :fleurwary:
 ! fleurwut.png :fleurwut:
-! flipTilt.png :flipTilt: :fliptilt:
-! flipRflip.png :flipRflip: :fliprflip:
-! flipDeal.png :flipDeal: :flipdeal:
-! flipLaz.png :flipLaz: :fliplaz:
-! flipDrain.png :flipDrain: :flipdrain:
-! flipLflip.png :flipLflip: :fliplflip:
-! flipPop.png :flipPop: :flippop:
-! flipMulti.png :flipMulti: :flipmulti:
-! flipDTK.png :flipDTK: :flipdtk:
-! flipJP.png :flipJP: :flipjp:
+! flipBall.png :flipBall: :flipball:
 ! flipBT.png :flipBT: :flipbt:
 ! flipBTR.png :flipBTR: :flipbtr:
-! flipPin.png :flipPin: :flippin:
-! flipBall.png :flipBall: :flipball:
-! flipLUL.png :flipLUL: :fliplul:
-! flipPBR.png :flipPBR: :flippbr:
-! flipHEY.png :flipHEY: :fliphey:
-! flipMEGALUL.png :flipMEGALUL: :flipmegalul:
+! flipDeal.png :flipDeal: :flipdeal:
+! flipDrain.png :flipDrain: :flipdrain:
+! flipDTK.png :flipDTK: :flipdtk:
 ! flipGPop.png :flipGPop: :flipgpop:
+! flipHEY.png :flipHEY: :fliphey:
+! flipJP.png :flipJP: :flipjp:
+! flipLaz.png :flipLaz: :fliplaz:
+! flipLflip.png :flipLflip: :fliplflip:
+! flipLUL.png :flipLUL: :fliplul:
+! flipMEGALUL.png :flipMEGALUL: :flipmegalul:
+! flipMulti.png :flipMulti: :flipmulti:
+! flipPBR.png :flipPBR: :flippbr:
+! flipPin.png :flipPin: :flippin:
+! flipPop.png :flipPop: :flippop:
+! flipRflip.png :flipRflip: :fliprflip:
+! flipTilt.png :flipTilt: :fliptilt:
 ! fluffhappy.png :fluffhappy:
 ! fluffparrot.gif :fluffparrot: :fluffuwotm8: :fluffdance:
 ! fluffsquee.png :fluffsquee:
@@ -1243,53 +1243,55 @@ flutterstare.png :flutterstare:
 ! laceAim.png :laceAim: :laceaim:
 ! laceBlank.png :laceBlank: :laceblank:
 ! laceBlind.png :laceBlind: :laceblind:
-! laceCS.png :laceCS: :lacecs:
 ! laceCash.png :laceCash: :lacecash:
-! laceCheer1.gif :laceCheer1: :lacecheer1:
-! laceCheer100.gif :laceCheer100: :lacecheer100:
-! laceCheer1000.gif :laceCheer1000: :lacecheer1000:
 ! laceCheer10000.gif :laceCheer10000: :lacecheer10000:
+! laceCheer1000.gif :laceCheer1000: :lacecheer1000:
+! laceCheer100.gif :laceCheer100: :lacecheer100:
+! laceCheer1.gif :laceCheer1: :lacecheer1:
 ! laceCheer5000.gif :laceCheer5000: :lacecheer5000:
 ! laceCorn.png :laceCorn: :lacecorn:
+! laceCS.png :laceCS: :lacecs:
 ! laceDown.png :laceDown: :lacedown:
 ! laceE.png :laceE: :lacee:
 ! laceFail.png :laceFail: :lacefail:
+! laceFine.png :laceFine: :lacefine:
 ! laceFood.png :laceFood: :lacefood:
 ! laceGasm.png :laceGasm: :lacegasm:
-! laceH.png :laceH: :laceh:
 ! laceHello.png :laceHello: :lacehello:
+! laceH.png :laceH: :laceh:
 ! laceHug.png :laceHug: :lacehug:
 ! laceHype.png :laceHype: :lacehype:
-! laceL.png :laceL: :lacel:
-! laceLOL.png :laceLOL: :lacelol:
 ! laceLewd.png :laceLewd: :lacelewd:
+! laceLOL.png :laceLOL: :lacelol:
 ! laceLoud.png :laceLoud: :laceloud:
 ! laceLove.png :laceLove: :lacelove:
-! laceMP.png :laceMP: :lacemp:
+! laceL.png :laceL: :lacel:
 ! laceMeeko.png :laceMeeko: :lacemeeko:
+! laceMP.png :laceMP: :lacemp:
 ! laceNo.png :laceNo: :laceno:
 ! laceOMG.png :laceOMG: :laceomg:
 ! lacePls.png :lacePls: :lacepls:
 ! lacePog.png :lacePog: :lacepog:
 ! lacePuff.png :lacePuff: :lacepuff:
 ! lacePuke.png :lacePuke: :lacepuke:
+! laceRage.png :laceRage: :lacerage:
 ! laceREE.png :laceREE: :laceree:
 ! laceRIP.png :laceRIP: :lacerip:
-! laceRage.png :laceRage: :lacerage:
-! laceS.png :laceS: :laces:
 ! laceSad.png :laceSad: :lacesad:
 ! laceSalt.png :laceSalt: :lacesalt:
 ! laceSalute.png :laceSalute: :lacesalute:
 ! laceShrug.png :laceShrug: :laceshrug:
-! laceT.png :laceT: :lacet:
+! laceS.png :laceS: :laces:
 ! laceTCKT.png :laceTCKT: :lacetckt:
 ! laceTears.png :laceTears: :lacetears:
 ! laceTen.png :laceTen: :laceten:
+! laceToxic.png :laceToxic: :lacetoxic:
+! laceT.png :laceT: :lacet:
 ! laceTrig.png :laceTrig: :lacetrig:
 ! laceUp.png :laceUp: :laceup:
-! laceWTF.png :laceWTF: :lacewtf:
 ! laceWave.png :laceWave: :lacewave:
 ! laceWink.png :laceWink: :lacewink:
+! laceWTF.png :laceWTF: :lacewtf:
 ! laceYay.png :laceYay: :laceyay:
 ! laffbaguette.gif :baglaff:
 ! laffer.gif :laffer:
@@ -2710,30 +2712,40 @@ flutterstare.png :flutterstare:
 ! ussr.gif :ussr:
 ! uwot.png :uwot:
 ! v.gif :v:
-! valeLove.png :valeLove: :valelove:
+! valeBaka.png :valeBaka: :valebaka:
+! valeBattle.png :valeBattle: :valebattle:
+! valeBlush.png :valeBlush: :valeblush:
+! valeCheer.png :valeCheer: :valecheer:
+! valeComfy.png :valeComfy: :valecomfy:
 ! valeCry.png :valeCry: :valecry:
-! valeGrrr.png :valeGrrr: :valegrrr:
-! valeShrug.png :valeShrug: :valeshrug:
-! valeLurk.png :valeLurk: :valelurk:
-! valeThink.png :valeThink: :valethink:
-! valeGiggle.png :valeGiggle: :valegiggle:
-! valeYo.png :valeYo: :valeyo:
-! valeGG.png :valeGG: :valegg:
-! valeHype.png :valeHype: :valehype:
-! valeFail.png :valeFail: :valefail:
 ! valeDabL.png :valeDabL: :valedabl:
 ! valeDabR.png :valeDabR: :valedabr:
-! valeHug.png :valeHug: :valehug:
-! valeGasm.png :valeGasm: :valegasm:
-! valeBlush.png :valeBlush: :valeblush:
-! valeRIP.png :valeRIP: :valerip:
-! valeSmug.png :valeSmug: :valesmug:
 ! valeEdgy.png :valeEdgy: :valeedgy:
-! valeNano.png :valeNano: :valenano:
+! valeFail.png :valeFail: :valefail:
+! valeGasm.png :valeGasm: :valegasm:
+! valeGG.png :valeGG: :valegg:
+! valeGiggle.png :valeGiggle: :valegiggle:
+! valeGrrr.png :valeGrrr: :valegrrr:
 ! valeHugged.png :valeHugged: :valehugged:
-! valeBattle.png :valeBattle: :valebattle:
-! valeWave.png :valeWave: :valewave:
+! valeHug.png :valeHug: :valehug:
+! valeHype.png :valeHype: :valehype:
+! valeImpMercyHealsGoodMan.png :valeImpMercyHealsGoodMan: :valeimpmercyhealsgoodman:
+! valeLove.png :valeLove: :valelove:
+! valeLurk.png :valeLurk: :valelurk:
+! valeNano.png :valeNano: :valenano:
+! valeOoh.png :valeOoh: :valeooh:
+! valeParty.png :valeParty: :valeparty:
+! valeRIP.png :valeRIP: :valerip:
+! valeShrug.png :valeShrug: :valeshrug:
+! valeSip.png :valeSip: :valesip:
+! valeSmug.png :valeSmug: :valesmug:
+! valeTaxic.png :valeTaxic: :valetaxic:
+! valeThink.png :valeThink: :valethink:
 ! valeValeHealsGoodMan.png :HealsGoodMan: :healsgoodman:
+! valeWave.png :valeWave: :valewave:
+! valeWingL.png :valeWingL: :valewingl:
+! valeWingR.png :valeWingR: :valewingr:
+! valeYo.png :valeYo: :valeyo:
 ! valvebeta.png :valvebeta:
 ! vampire.png :vampire:
 ! vd.gif :vd:
