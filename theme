@@ -747,11 +747,16 @@ condi.gif :condi:
 ! flipBall.png :flipBall: :flipball:
 ! flipBT.png :flipBT: :flipbt:
 ! flipBTR.png :flipBTR: :flipbtr:
+! flipDANGER.png :flipDANGER: :flipdanger:
 ! flipDeal.png :flipDeal: :flipdeal:
 ! flipDrain.png :flipDrain: :flipdrain:
 ! flipDTK.png :flipDTK: :flipdtk:
+! flipDUDE.png :flipDUDE: :flipdude:
+! flipE.png :flipE: :flipe:
+! flipFRICK.png :flipFRICK: :flipfrick:
 ! flipGPop.png :flipGPop: :flipgpop:
 ! flipHEY.png :flipHEY: :fliphey:
+! flipHUGE.png :flipHUGE: :fliphuge:
 ! flipJP.png :flipJP: :flipjp:
 ! flipLaz.png :flipLaz: :fliplaz:
 ! flipLflip.png :flipLflip: :fliplflip:
@@ -760,8 +765,10 @@ condi.gif :condi:
 ! flipMulti.png :flipMulti: :flipmulti:
 ! flipPBR.png :flipPBR: :flippbr:
 ! flipPin.png :flipPin: :flippin:
+! flipPOOL.png :flipPOOL: :flippool:
 ! flipPop.png :flipPop: :flippop:
 ! flipRflip.png :flipRflip: :fliprflip:
+! flipTECH.png :flipTECH: :fliptech:
 ! flipTilt.png :flipTilt: :fliptilt:
 ! fluffhappy.png :fluffhappy:
 ! fluffparrot.gif :fluffparrot: :fluffuwotm8: :fluffdance:
@@ -1241,6 +1248,7 @@ flutterstare.png :flutterstare:
 ! kratos.gif :kratos:
 ! kreygasm.png :Kreygasm:
 ! laceAim.png :laceAim: :laceaim:
+! laceAyy.png :laceAyy: :laceayy:
 ! laceBlank.png :laceBlank: :laceblank:
 ! laceBlind.png :laceBlind: :laceblind:
 ! laceCash.png :laceCash: :lacecash:
@@ -1250,10 +1258,13 @@ flutterstare.png :flutterstare:
 ! laceCheer1.gif :laceCheer1: :lacecheer1:
 ! laceCheer5000.gif :laceCheer5000: :lacecheer5000:
 ! laceCorn.png :laceCorn: :lacecorn:
+! laceCringe.png :laceCringe: :lacecringe:
 ! laceCS.png :laceCS: :lacecs:
+! laceDerp.png :laceDerp: :lacederp:
 ! laceDown.png :laceDown: :lacedown:
 ! laceE.png :laceE: :lacee:
 ! laceFail.png :laceFail: :lacefail:
+! laceFight.png :laceFight: :lacefight:
 ! laceFine.png :laceFine: :lacefine:
 ! laceFood.png :laceFood: :lacefood:
 ! laceGasm.png :laceGasm: :lacegasm:
@@ -1266,6 +1277,7 @@ flutterstare.png :flutterstare:
 ! laceLoud.png :laceLoud: :laceloud:
 ! laceLove.png :laceLove: :lacelove:
 ! laceL.png :laceL: :lacel:
+! laceLurk.png :laceLurk: :lacelurk:
 ! laceMeeko.png :laceMeeko: :lacemeeko:
 ! laceMP.png :laceMP: :lacemp:
 ! laceNo.png :laceNo: :laceno:
@@ -1281,6 +1293,7 @@ flutterstare.png :flutterstare:
 ! laceSalt.png :laceSalt: :lacesalt:
 ! laceSalute.png :laceSalute: :lacesalute:
 ! laceShrug.png :laceShrug: :laceshrug:
+! laceSip.png :laceSip: :lacesip:
 ! laceS.png :laceS: :laces:
 ! laceTCKT.png :laceTCKT: :lacetckt:
 ! laceTears.png :laceTears: :lacetears:
@@ -2747,6 +2760,7 @@ flutterstare.png :flutterstare:
 ! valeDabL.png :valeDabL: :valedabl:
 ! valeDabR.png :valeDabR: :valedabr:
 ! valeEdgy.png :valeEdgy: :valeedgy:
+! valeEvil.png :valeEvil: :valeevil:
 ! valeFail.png :valeFail: :valefail:
 ! valeGasm.png :valeGasm: :valegasm:
 ! valeGG.png :valeGG: :valegg:
@@ -2756,6 +2770,7 @@ flutterstare.png :flutterstare:
 ! valeHug.png :valeHug: :valehug:
 ! valeHype.png :valeHype: :valehype:
 ! valeImpMercyHealsGoodMan.png :valeImpMercyHealsGoodMan: :valeimpmercyhealsgoodman:
+! valeLewd.png :valeLewd: :valelewd:
 ! valeLove.png :valeLove: :valelove:
 ! valeLurk.png :valeLurk: :valelurk:
 ! valeNano.png :valeNano: :valenano:
