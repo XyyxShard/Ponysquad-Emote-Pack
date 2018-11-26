@@ -365,6 +365,7 @@ Author=RD
 ! cawg.gif :cawg:
 ! ccb.gif :ccb:
 ! ccp2.gif :ccp: :ccp2:
+! ccpguard.png :ccpguard:
 ! cedric.png :cedric:
 ! cefte.gif :cefte:
 ! ceilingluna.png :ceilingluna: :lunaceiling:
@@ -717,6 +718,35 @@ condi.gif :condi:
 ! euphoric.gif :euphoric:
 ! europe.gif :europe:
 ! eurovision.png :eurovision:
+! eveaHeart.png :eveaHeart: :eveaheart:
+! eveaYo.png :eveaYo: :eveayo:
+! eveaSMUG.png :eveaSMUG: :eveasmug:
+! eveaBaited.png :eveaBaited: :eveabaited:
+! eveaSad.png :eveaSad: :eveasad:
+! eveaLove.png :eveaLove: :evealove:
+! eveaLewd.png :eveaLewd: :evealewd:
+! eveaHype.png :eveaHype: :eveahype:
+! eveaShy.png :eveaShy: :eveashy:
+! eveaWR.png :eveaWR: :eveawr:
+! eveaWL.png :eveaWL: :eveawl:
+! eveaSleeping.png :eveaSleeping: :eveasleeping:
+! eveaYawn.png :eveaYawn: :eveayawn:
+! eveaCry.png :eveaCry: :eveacry:
+! eveaThonk.png :eveaThonk: :eveathonk:
+! eveaBad.png :eveaBad: :eveabad:
+! eveaPat.png :eveaPat: :eveapat:
+! eveaCozy.png :eveaCozy: :eveacozy:
+! eveaGasm.png :eveaGasm: :eveagasm:
+! eveaLurk.png :eveaLurk: :evealurk:
+! eveaSweat.png :eveaSweat: :eveasweat:
+! eveaNLT.png :eveaNLT: :eveanlt:
+! eveaWink.png :eveaWink: :eveawink:
+! eveaTIF.png :eveaTIF: :eveatif:
+! eveaThink.png :eveaThink: :eveathink:
+! eveaDab.png :eveaDab: :eveadab:
+! eveaBlind.png :eveaBlind: :eveablind:
+! eveaMhmm.png :eveaMhmm: :eveamhmm:
+! eveaShadow.png :eveaShadow: :eveashadow:
 ! eveo.gif :eve-o: :eveo:
 ! evil.gif :eviltwist:
 ! evilfetus.png :EvilFetus:
@@ -793,6 +823,7 @@ condi.gif :condi:
 ! flipDUDE.png :flipDUDE: :flipdude:
 ! flipE.png :flipE: :flipe:
 ! flipFRICK.png :flipFRICK: :flipfrick:
+! flipGOON.png :flipGOON: :flipgoon:
 ! flipGPop.png :flipGPop: :flipgpop:
 ! flipHEY.png :flipHEY: :fliphey:
 ! flipHUGE.png :flipHUGE: :fliphuge:
@@ -1061,6 +1092,7 @@ flutterstare.png :flutterstare:
 ! goonie.gif :goonie:
 ! goonsay.gif :goonsay:
 ! gop.gif :gop:
+! gorillionaire.png :gorillionaire: :agorilliondollars:
 ! gowron.gif :gowron:
 ! gpaperbagprincess.png :gpaperbagprincess:
 ! gpinkieawe.png :gpinkieawe:
@@ -1308,28 +1340,34 @@ flutterstare.png :flutterstare:
 ! laceAyy.png :laceAyy: :laceayy:
 ! laceBlank.png :laceBlank: :laceblank:
 ! laceBlind.png :laceBlind: :laceblind:
+! laceBully.png :laceBully: :lacebully:
 ! laceCash.png :laceCash: :lacecash:
 ! laceCheer10000.gif :laceCheer10000: :lacecheer10000:
 ! laceCheer1000.gif :laceCheer1000: :lacecheer1000:
 ! laceCheer100.gif :laceCheer100: :lacecheer100:
 ! laceCheer1.gif :laceCheer1: :lacecheer1:
 ! laceCheer5000.gif :laceCheer5000: :lacecheer5000:
+! laceComfy.png :laceComfy: :lacecomfy:
 ! laceCorn.png :laceCorn: :lacecorn:
 ! laceCringe.png :laceCringe: :lacecringe:
 ! laceCS.png :laceCS: :lacecs:
+! laceDazed.png :laceDazed: :lacedazed:
 ! laceDerp.png :laceDerp: :lacederp:
 ! laceDown.png :laceDown: :lacedown:
 ! laceE.png :laceE: :lacee:
+! laceEvil.png :laceEvil: :laceevil:
 ! laceFail.png :laceFail: :lacefail:
 ! laceFight.png :laceFight: :lacefight:
 ! laceFine.png :laceFine: :lacefine:
 ! laceFood.png :laceFood: :lacefood:
 ! laceGasm.png :laceGasm: :lacegasm:
 ! laceHello.png :laceHello: :lacehello:
+! laceHmm.png :laceHmm: :lacehmm:
 ! laceH.png :laceH: :laceh:
 ! laceHug.png :laceHug: :lacehug:
 ! laceHype.png :laceHype: :lacehype:
 ! laceLewd.png :laceLewd: :lacelewd:
+! laceListen.png :laceListen: :lacelisten:
 ! laceLOL.png :laceLOL: :lacelol:
 ! laceLoud.png :laceLoud: :laceloud:
 ! laceLove.png :laceLove: :lacelove:
@@ -1339,6 +1377,7 @@ flutterstare.png :flutterstare:
 ! laceMP.png :laceMP: :lacemp:
 ! laceNo.png :laceNo: :laceno:
 ! laceOMG.png :laceOMG: :laceomg:
+! lacePF.png :lacePF: :lacepf:
 ! lacePls.png :lacePls: :lacepls:
 ! lacePog.png :lacePog: :lacepog:
 ! lacePuff.png :lacePuff: :lacepuff:
@@ -1361,6 +1400,7 @@ flutterstare.png :flutterstare:
 ! laceUp.png :laceUp: :laceup:
 ! laceWave.png :laceWave: :lacewave:
 ! laceWink.png :laceWink: :lacewink:
+! laceWK.png :laceWK: :lacewk:
 ! laceWTF.png :laceWTF: :lacewtf:
 ! laceYay.png :laceYay: :laceyay:
 ! laffbaguette.gif :baglaff:
@@ -2013,6 +2053,7 @@ flutterstare.png :flutterstare:
 ! rainwince.png :rainwince:
 ! raise.gif :raise:
 ! ralpherz.png :RalpherZ:
+! ralsei.png :ralsei:
 ! ramsay.gif :ramsay:
 ! rant.gif :rant:
 ! rapeshadoo.gif :rapeshadoo:
@@ -2097,8 +2138,8 @@ flutterstare.png :flutterstare:
 ! rayn_enterprises.png :sre:
 ! razz.gif :razz:
 ! rdaaaa.png :rdaaaa:
-! rdapproved.png :rdapproved:
-! rdawe.png :rdawe:
+! rdapproved.png :rdapproved
+! rdawe.gif :rdawe:
 ! rdawesome.png :rdawesome:
 ! rdawkward.png :rdawkward:
 ! rdawyeah.png :rdawyeah:
@@ -2772,6 +2813,7 @@ flutterstare.png :flutterstare:
 ! thurman.gif :thurman:
 ! thx.gif :thx:
 ! tiaraskeptical.png :tiaraskeptical:
+! time4succ.png :time4succ:
 ! timeline2.png :timeline2:
 ! tindowns.gif :tindowns: :downsfoil:
 ! tinfoil.gif :tinfoil:
@@ -2921,6 +2963,7 @@ flutterstare.png :flutterstare:
 ! twischeme.png :twischeme:
 ! twiscience.png :twiscience:
 ! twisecret.png :twisecret:
+! twiseeswhatyoudidthere.png :twiseeswhatyoudidthere: :twiswydt:
 ! twisheepish.png :twisheepish:
 ! twishobon.png :twishobon:
 ! twishock.png :twishock:
@@ -2971,6 +3014,7 @@ flutterstare.png :flutterstare:
 ! upswift.png :upswift:
 ! upvote.gif :upvote:
 ! upvotecannon.png :upvotecannon:
+! upvoteparrot.gif :upvoteparrot: :parrotupvote:
 ! upvotepony.png :upvotepony: :karma:
 ! usa.gif :USA:
 ! usadino.png :usadino:
@@ -2988,6 +3032,7 @@ flutterstare.png :flutterstare:
 ! valeEdgy.png :valeEdgy: :valeedgy:
 ! valeEvil.png :valeEvil: :valeevil:
 ! valeFail.png :valeFail: :valefail:
+! valeFine.png :valeFine: :valefine:
 ! valeGasm.png :valeGasm: :valegasm:
 ! valeGG.png :valeGG: :valegg:
 ! valeGiggle.png :valeGiggle: :valegiggle:
@@ -3000,12 +3045,14 @@ flutterstare.png :flutterstare:
 ! valeLove.png :valeLove: :valelove:
 ! valeLurk.png :valeLurk: :valelurk:
 ! valeNano.png :valeNano: :valenano:
+! valeNom.png :valeNom: :valenom:
 ! valeOoh.png :valeOoh: :valeooh:
 ! valeParty.png :valeParty: :valeparty:
 ! valeRIP.png :valeRIP: :valerip:
 ! valeShrug.png :valeShrug: :valeshrug:
 ! valeSip.png :valeSip: :valesip:
 ! valeSmug.png :valeSmug: :valesmug:
+! valeS.png :valeS: :vales:
 ! valeTaxic.png :valeTaxic: :valetaxic:
 ! valeThink.png :valeThink: :valethink:
 ! valeValeHealsGoodMan.png :HealsGoodMan: :healsgoodman:
@@ -3013,6 +3060,7 @@ flutterstare.png :flutterstare:
 ! valeWingL.png :valeWingL: :valewingl:
 ! valeWingR.png :valeWingR: :valewingr:
 ! valeYo.png :valeYo: :valeyo:
+! valeZzz.png :valeZzz: :valezzz:
 ! valvebeta.png :valvebeta:
 ! vampire.png :vampire:
 ! vd.gif :vd:

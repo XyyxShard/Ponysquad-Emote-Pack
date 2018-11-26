@@ -16,6 +16,7 @@ channels = [
     '37524427', # LacedUpLauren
     '71963871', # Dead_Flip
     '27645199', # Vale
+    '39940104', # EeveeA_
 ]
 
 def download_file(target, url, headers=None):
