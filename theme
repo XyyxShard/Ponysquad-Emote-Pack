@@ -1,6 +1,6 @@
-Name=Pony Pack 2018 Fellow Kids Edition
+Name=Pony Pack 2018 Rule 63 Edition
 Description=SA+GF+Reddit+EVE+Ponies
-Icon=lunadab.png
+Icon=erisbeam.png
 Author=RD
 
 [default]
@@ -598,6 +598,7 @@ condi.gif :condi:
 ! derpyohyou.png :derpyohyou:
 ! derpyoops.png :derpyoops:
 ! derpyshrug.png :derpyshrug:
+! derpyskeptical.png :derpyskeptical:
 ! derpysleep.png :derpysleep:
 ! derpysmeel.png :derpysmeel:
 ! derpysmirk.png :derpysmirk:
@@ -628,11 +629,27 @@ condi.gif :condi:
 ! diplomacy.gif :diplomacy:
 ! discord.png :discord:
 ! discordapproved.png :discordapproved:
+! discordbeam.png :discordbeam:
 ! discordbeh.png :discordbeh:
+! discordbeh2.png :discordbeh2:
 ! discordcool.png :discordcool:
+! discordcry.png :discordcry:
+! discordderp.png :discordderp:
 ! discordeyes.png :discordeyes:
+! discordi.png :discordi:
+! discordmad.png :discordmad:
+! discordrage.png :discordrage:
+! discordsheepish.png :discordsheepish:
+! discordskeptical.png :discordskeptical:
+! discordsmug.png :discordsmug:
+! discordsoon.png :discordsoon:
 ! discordsquee.png :discordsquee:
+! discordsquee2.png :discordsquee2:
+! discordten.png :discordten: :discord10:
 ! discordtickles.gif :discordtickles:
+! discordtwitch.png :discordtwitch:
+! discordwotwot.png :discordwotwot:
+! discordwut.png :discordwut:
 ! distinguished_gentleman's_boating_club.png :dgbc:
 ! ditka.gif :ditka:
 ! djb.gif :djb:
@@ -713,6 +730,19 @@ condi.gif :condi:
 ! eng101.gif :eng101:
 ! eng99.gif :eng99:
 ! engleft.gif :engleft:
+! erisbeam.png :erisbeam:
+! erisbeh.png :erisbeh:
+! erisblush.png :erisblush:
+! eriscoy.png :eriscoy:
+! erishappy.png :erishappy:
+! erisjuice.png :erisjuice: :erisjuicebox:
+! erismad.png :erismad:
+! erisree.png :erisree:
+! erissad.png :erissad:
+! erisshrug.png :erisshrug:
+! erisskeptical.png :erisskeptical:
+! erissleep.png :erissleep:
+! erissmug.png :erissmug:
 ! ese.gif :ese:
 ! euphoric.gif :euphoric:
 ! europe.gif :europe:
@@ -2582,7 +2612,9 @@ flutterstare.png :flutterstare:
 ! stardafu.png :stardafu:
 ! starduck.png :starduck:
 ! stardwi.png :stardwi:
+! starfear.png :starfear:
 ! stargrump.png :stargrump:
+! starhappy.png :starhappy:
 ! stari.png :stari:
 ! starorly.png :starorly: :youfuckedupgoodjob: :goodjob:
 ! starrage.png :starrage:
@@ -2710,6 +2742,7 @@ flutterstare.png :flutterstare:
 ! taviglare.png :taviglare:
 ! taviglee.png :taviglee:
 ! tavigusta.png :tavigusta:
+! taviH.gif :taviH: :tavih:
 ! tavihugs.png :tavihugs:
 ! tavilie.png :tavilie:
 ! tavilol.png :tavilol:
@@ -2799,6 +2832,7 @@ flutterstare.png :flutterstare:
 ! trashbear.gif :tbear:
 ! trihard.png :TriHard:
 ! trixieawesome.png :trixieawesome:
+! trixiebeh.png :trixiebeh:
 ! trixiecakes.png :trixiecakes:
 ! trixieclop.png :trixieclop:
 ! trixieconcern.png :trixieconcern:
@@ -2809,13 +2843,16 @@ flutterstare.png :flutterstare:
 ! trixiefetish.png :trixiefetish:
 ! trixiefilly.png :trixiefilly:
 ! trixieflail.gif :trixieflail:
+! trixiehappy.png :trixiehappy:
 ! trixiehello.png :trixiehello:
+! trixieinconvenient.png :trixieinconvenient:
 ! trixielazor.png :trixielazor: :trixielazer: :trixielaser: :trixieshoop:
 ! trixielol.png :trixielol:
 ! trixiemad.png :trixiemad:
 ! trixiepower.png :trixiepower:
 ! trixiesanta.png :trixiesanta: :thegreatandpowerfulsanta:
 ! trixiescheme.png :trixiescheme:
+! trixiescoff.png :trixiescoff:
 ! trixiesheepish.png :trixiesheepish:
 ! trixieshrug.png :trixieshrug:
 ! trixiesleep.png :trixiesleep:
@@ -3035,6 +3072,7 @@ flutterstare.png :flutterstare:
 ! vinyldance.gif :vinylrockin:
 ! vinyldance2.gif :vinyldance:
 ! vinylfilly.png :vinylfilly:
+! vinylH.gif :vinylH: :vinylh:
 ! vinylhugs.png :vinylhugs:
 ! vinylhuh.png :vinylhuh:
 ! vinylnom.png :vinylnom:
@@ -3112,6 +3150,7 @@ flutterstare.png :flutterstare:
 ! woonafilly.png :woonafilly:
 ! woonaflail.png :woonaflail:
 ! woonafsjal.png :woonafsjal:
+! woonagaze.png :woonagaze:
 ! woonahappy.png :woonahappy:
 ! woonajuicebox.png :woonajuicebox: :woonajuice: :woonasip:
 ! woonanom.png :woonanom:
@@ -3124,6 +3163,7 @@ flutterstare.png :flutterstare:
 ! woonasad.png :woonasad:
 ! woonashiver.png :woonashiver: :woonabrr:
 ! woonashrug.png :woonashrug:
+! woonashrughat.png :woonashrughat:
 ! woonasleep.png :woonasleep:
 ! woonasocks.png :woonasocks:
 ! woonasoon.png :woonasoon:
