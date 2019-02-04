@@ -66,6 +66,10 @@ def fetch_emote(filename, url):
     img.thumbnail((40,40), Image.ANTIALIAS)
     img.save(filename)
 
+    img = Image.open(BytesIO(r.content))
+    img.thumbnail((120,120), Image.LANCZOS)
+    img.save('hidpi/' + filename)
+
 def get_subscriber_emotes():
     local_fname = 'subscriber-emotes.json'
     download_file(local_fname, 'https://twitchemotes.com/api_cache/v3/subscriber.json')

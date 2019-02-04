@@ -563,7 +563,7 @@ condi.gif :condi:
 ! dbwalk.gif :dbwalk:
 ! dc2.png :dc2:
 ! dd.png DD:
-! deadtear.gif :deadtear: :tumbleweed:
+! deadtear.gif :tumbleweed: :deadtear:
 ! dealwithit.jpg :dealwithit:
 ! deltasilon.gif :deltasilon: :delta:
 ! denmark.gif :denmark:
@@ -1600,27 +1600,27 @@ flutterstare.png :flutterstare:
 ! milk.gif :milk:
 ! milk.png :milkfu:
 ! milkie.gif :milkie:
-! minu3.png :colgate3: :minu3:
-! minuahem.png :colgateahem: :minuahem:
-! minubeam.png :colgatebeam: :minubeam:
+! minu3.png :minu3: :colgate3:
+! minuahem.png :minuahem: :colgateahem:
+! minubeam.png :minubeam: :colgatebeam:
 ! minubox.png :minubox: :cardboardbox:
-! minucakes.png :colgatecakes: :minucakes:
-! minuclop.png :colgateclop: :minuclop:
-! minuconcern.png :colgateconcern: :minuconcern:
-! minucoy.png :colgatecoy: :minucoy:
-! minucreep.png :colgatecreep: :minucreep:
-! minuderp.png :colgatederp: :minuderp:
-! minufsjal.png :colgatefsjal: :minufsjal:
-! minugasp.png :colgategasp: :minugasp:
-! minuhappy.png :colgatehappy: :minuhappy:
-! minulie.png :colgatelie: :minulie:
+! minucakes.png :minucakes: :colgatecakes:
+! minuclop.png :minuclop: :colgateclop:
+! minuconcern.png :minuconcern: :colgateconcern:
+! minucoy.png :minucoy: :colgatecoy:
+! minucreep.png :minucreep: :colgatecreep:
+! minuderp.png :minuderp: :colgatederp:
+! minufsjal.png :minufsjal: :colgatefsjal:
+! minugasp.png :minugasp: :colgategasp:
+! minuhappy.png :minuhappy: :colgatehappy:
+! minulie.png :minulie: :colgatelie:
 ! minumad.png :minumad:
-! minuread.png :colgateread: :minuread:
-! minushrug.png :colgateshrug: :minushrug:
-! minusly.png :colgatesly: :minusly:
+! minuread.png :minuread: :colgateread:
+! minushrug.png :minushrug: :colgateshrug:
+! minusly.png :minusly: :colgatesly:
 ! minusmeel.png :minusmeel:
-! minustare.png :colgatestare: :minustare:
-! minutoot.png :colgatetoot: :minutoot:
+! minustare.png :minustare: :colgatestare:
+! minutoot.png :minutoot: :colgatetoot:
 ! minuwat.png :minuwat: :colgatewat:
 ! mitt.gif :mitt:
 ! mittanisar.gif :mittanisar:
@@ -1750,7 +1750,7 @@ flutterstare.png :flutterstare:
 ! nowkiss.png :nowkiss:
 ! nozebras.png :nozebras:
 ! nsa.png :nsa:
-! nsfw.png :nsfw: :nsfwoona: :woonarun:
+! nsfw.png :nsfwoona: :woonarun: :nsfw:
 ! ntwice.png :ntwice: :edgy:
 ! numb.png :numb:
 ! nuvanito.gif :blackops: :nuvanito:
@@ -3120,6 +3120,7 @@ flutterstare.png :flutterstare:
 ! vinyldance.gif :vinylrockin:
 ! vinyldance2.gif :vinyldance:
 ! vinylfilly.png :vinylfilly:
+! vinylfsjal.png :vinylfsjal:
 ! vinylH.gif :vinylH: :vinylh:
 ! vinylhugs.png :vinylhugs:
 ! vinylhuh.png :vinylhuh:
