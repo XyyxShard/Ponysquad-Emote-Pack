@@ -13,10 +13,11 @@ from PIL import Image
 EMOTE_URI = 'https://static-cdn.jtvnw.net/emoticons/v1/%d/2.0'
 
 channels = [
-    '37524427', # LacedUpLauren
-    '71963871', # Dead_Flip
     '27645199', # Vale
+    '37524427', # LacedUpLauren
     '39940104', # EeveeA_
+    '51533859', # AnneMunition
+    '71963871', # Dead_Flip
 ]
 
 def download_file(target, url, headers=None):
@@ -83,7 +84,7 @@ for channel in channels:
     if channel not in emotes:
         sys.stderr.write("Channel ID %s not found!\n" % (channel,))
         continue
-    for emote in emotes[channel]['emotes']:
+    for emote in sorted(emotes[channel]['emotes'], key=lambda x: x['code']):
         fname = '%s.png' % (emote['code'],)
         emote_name = ':%s:' % (emote['code'],)
         emote_url = EMOTE_URI % (emote['id'],)
