@@ -906,6 +906,7 @@ Author=RD
 ! flipFRICK.png :flipFRICK: :flipfrick:
 ! flipGOON.png :flipGOON: :flipgoon:
 ! flipGPop.png :flipGPop: :flipgpop:
+! flipHAT.png :flipHAT: :fliphat:
 ! flipHEY.png :flipHEY: :fliphey:
 ! flipHUGE.png :flipHUGE: :fliphuge:
 ! flipJP.png :flipJP: :flipjp:
@@ -921,6 +922,7 @@ Author=RD
 ! flipRflip.png :flipRflip: :fliprflip:
 ! flipTECH.png :flipTECH: :fliptech:
 ! flipTilt.png :flipTilt: :fliptilt:
+! flipYIKES.png :flipYIKES: :flipyikes:
 ! flot.png :flot:
 ! fluffhappy.png :fluffhappy:
 ! fluffparrot.gif :fluffparrot: :fluffuwotm8: :fluffdance:
@@ -1417,11 +1419,14 @@ Author=RD
 ! kreygasm.png :Kreygasm:
 ! laceAim.png :laceAim: :laceaim:
 ! laceAyy.png :laceAyy: :laceayy:
+! laceBad.png :laceBad: :lacebad:
 ! laceBlank.png :laceBlank: :laceblank:
 ! laceBlind.png :laceBlind: :laceblind:
 ! laceBully.png :laceBully: :lacebully:
 ! laceCS.png :laceCS: :lacecs:
+! laceCarry.png :laceCarry: :lacecarry:
 ! laceCash.png :laceCash: :lacecash:
+! laceCheer.png :laceCheer: :lacecheer:
 ! laceCheer1.gif :laceCheer1: :lacecheer1:
 ! laceCheer100.gif :laceCheer100: :lacecheer100:
 ! laceCheer1000.gif :laceCheer1000: :lacecheer1000:
@@ -1430,6 +1435,7 @@ Author=RD
 ! laceComfy.png :laceComfy: :lacecomfy:
 ! laceCorn.png :laceCorn: :lacecorn:
 ! laceCringe.png :laceCringe: :lacecringe:
+! laceD.png :laceD: :laced:
 ! laceDazed.png :laceDazed: :lacedazed:
 ! laceDerp.png :laceDerp: :lacederp:
 ! laceDown.png :laceDown: :lacedown:
@@ -1445,10 +1451,12 @@ Author=RD
 ! laceHmm.png :laceHmm: :lacehmm:
 ! laceHug.png :laceHug: :lacehug:
 ! laceHype.png :laceHype: :lacehype:
+! laceJam.png :laceJam: :lacejam:
 ! laceL.png :laceL: :lacel:
 ! laceLOL.png :laceLOL: :lacelol:
 ! laceLewd.png :laceLewd: :lacelewd:
 ! laceListen.png :laceListen: :lacelisten:
+! laceLost.png :laceLost: :lacelost:
 ! laceLoud.png :laceLoud: :laceloud:
 ! laceLove.png :laceLove: :lacelove:
 ! laceLurk.png :laceLurk: :lacelurk:
@@ -1456,6 +1464,7 @@ Author=RD
 ! laceMeeko.png :laceMeeko: :lacemeeko:
 ! laceNo.png :laceNo: :laceno:
 ! laceOMG.png :laceOMG: :laceomg:
+! laceOop.png :laceOop: :laceoop:
 ! lacePF.png :lacePF: :lacepf:
 ! lacePls.png :lacePls: :lacepls:
 ! lacePog.png :lacePog: :lacepog:
@@ -1469,11 +1478,14 @@ Author=RD
 ! laceSalt.png :laceSalt: :lacesalt:
 ! laceSalute.png :laceSalute: :lacesalute:
 ! laceShrug.png :laceShrug: :laceshrug:
+! laceShy.png :laceShy: :laceshy:
 ! laceSip.png :laceSip: :lacesip:
 ! laceT.png :laceT: :lacet:
 ! laceTCKT.png :laceTCKT: :lacetckt:
+! laceTea.png :laceTea: :lacetea:
 ! laceTears.png :laceTears: :lacetears:
 ! laceTen.png :laceTen: :laceten:
+! laceThicc.png :laceThicc: :lacethicc:
 ! laceToxic.png :laceToxic: :lacetoxic:
 ! laceTrig.png :laceTrig: :lacetrig:
 ! laceUp.png :laceUp: :laceup:
@@ -3111,9 +3123,11 @@ Author=RD
 ! valeBaka.png :valeBaka: :valebaka:
 ! valeBattle.png :valeBattle: :valebattle:
 ! valeBlush.png :valeBlush: :valeblush:
+! valeBooli.png :valeBooli: :valebooli:
 ! valeCheer.png :valeCheer: :valecheer:
 ! valeComfy.png :valeComfy: :valecomfy:
 ! valeCry.png :valeCry: :valecry:
+! valeD.png :valeD: :valed:
 ! valeDabL.png :valeDabL: :valedabl:
 ! valeDabR.png :valeDabR: :valedabr:
 ! valeEdgy.png :valeEdgy: :valeedgy:
@@ -3134,18 +3148,22 @@ Author=RD
 ! valeNano.png :valeNano: :valenano:
 ! valeNom.png :valeNom: :valenom:
 ! valeOoh.png :valeOoh: :valeooh:
+! valePanic.png :valePanic: :valepanic:
 ! valeParty.png :valeParty: :valeparty:
 ! valeRIP.png :valeRIP: :valerip:
+! valeRiot.png :valeRiot: :valeriot:
 ! valeS.png :valeS: :vales:
 ! valeShrug.png :valeShrug: :valeshrug:
 ! valeSip.png :valeSip: :valesip:
 ! valeSmug.png :valeSmug: :valesmug:
+! valeStudy.png :valeStudy: :valestudy:
 ! valeTaxic.png :valeTaxic: :valetaxic:
 ! valeThink.png :valeThink: :valethink:
 ! valeValeHealsGoodMan.png :HealsGoodMan: :healsgoodman:
 ! valeWave.png :valeWave: :valewave:
 ! valeWingL.png :valeWingL: :valewingl:
 ! valeWingR.png :valeWingR: :valewingr:
+! valeWow.png :valeWow: :valewow:
 ! valeYo.png :valeYo: :valeyo:
 ! valeZzz.png :valeZzz: :valezzz:
 ! valvebeta.png :valvebeta:
