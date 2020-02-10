@@ -72,10 +72,13 @@ def fetch_emote(filename, url):
     img.save('hidpi/' + filename)
 
 def get_subscriber_emotes():
-    local_fname = 'subscriber-emotes.json'
-    download_file(local_fname, 'https://twitchemotes.com/api_cache/v3/subscriber.json')
-    with open(local_fname, 'rt') as fd:
-        emotes = json.load(fd)
+    emotes = {}
+    for channel in channels:
+        local_fname = 'subscriber-emotes-%s.json' % (channel,)
+        download_file(local_fname, 'https://api.twitchemotes.com/api/v4/channels/%s' % (channel,))
+        with open(local_fname, 'rt') as fd:
+            channel_emotes = json.load(fd)
+            emotes[channel] = channel_emotes
     return emotes
 
 emotes = get_subscriber_emotes()
