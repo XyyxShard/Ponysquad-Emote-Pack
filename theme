@@ -155,14 +155,17 @@ Author=RD
 ! angry.png :angry:
 ! anime.png :anime:
 ! anne7.png :anne7: :anne7:
+! anne9.png :anne9: :anne9:
 ! anneActually.png :anneActually: :anneactually:
 ! anneArchy.png :anneArchy: :annearchy:
 ! anneAwk.png :anneAwk: :anneawk:
+! anneBoop.png :anneBoop: :anneboop:
 ! anneBurger.png :anneBurger: :anneburger:
 ! anneCarry.png :anneCarry: :annecarry:
 ! anneChamp.png :anneChamp: :annechamp:
 ! anneCool.png :anneCool: :annecool:
 ! anneCop.png :anneCop: :annecop:
+! anneDerp.png :anneDerp: :annederp:
 ! anneDog.png :anneDog: :annedog:
 ! anneFail.png :anneFail: :annefail:
 ! anneFine.png :anneFine: :annefine:
@@ -175,6 +178,7 @@ Author=RD
 ! anneGrump.png :anneGrump: :annegrump:
 ! anneHammer.png :anneHammer: :annehammer:
 ! anneHeart.png :anneHeart: :anneheart:
+! anneJustice.png :anneJustice: :annejustice:
 ! anneK9.png :anneK9: :annek9:
 ! anneKappa.png :anneKappa: :annekappa:
 ! anneLewd.png :anneLewd: :annelewd:
@@ -206,6 +210,7 @@ Author=RD
 ! anneWink.png :anneWink: :annewink:
 ! anneYay.png :anneYay: :anneyay:
 ! anneYes.png :anneYes: :anneyes:
+! anneYuck.png :anneYuck: :anneyuck:
 ! anttony.gif :anttony:
 ! apabeh.png :apabeh:
 ! apasad.png :apasad:
@@ -1417,6 +1422,7 @@ Author=RD
 ! krakentoot.gif :krakentoot:
 ! kratos.gif :kratos:
 ! kreygasm.png :Kreygasm:
+! laceAYAYA.png :laceAYAYA: :laceayaya:
 ! laceAim.png :laceAim: :laceaim:
 ! laceAyy.png :laceAyy: :laceayy:
 ! laceBad.png :laceBad: :lacebad:
@@ -1432,9 +1438,11 @@ Author=RD
 ! laceCheer1000.gif :laceCheer1000: :lacecheer1000:
 ! laceCheer10000.gif :laceCheer10000: :lacecheer10000:
 ! laceCheer5000.gif :laceCheer5000: :lacecheer5000:
+! laceClown.png :laceClown: :laceclown:
 ! laceComfy.png :laceComfy: :lacecomfy:
 ! laceCorn.png :laceCorn: :lacecorn:
 ! laceCringe.png :laceCringe: :lacecringe:
+! laceCurse.png :laceCurse: :lacecurse:
 ! laceD.png :laceD: :laced:
 ! laceDazed.png :laceDazed: :lacedazed:
 ! laceDerp.png :laceDerp: :lacederp:
@@ -1446,6 +1454,8 @@ Author=RD
 ! laceFine.png :laceFine: :lacefine:
 ! laceFood.png :laceFood: :lacefood:
 ! laceGasm.png :laceGasm: :lacegasm:
+! laceGift.png :laceGift: :lacegift:
+! laceGun.png :laceGun: :lacegun:
 ! laceH.png :laceH: :laceh:
 ! laceHello.png :laceHello: :lacehello:
 ! laceHmm.png :laceHmm: :lacehmm:
@@ -1461,13 +1471,18 @@ Author=RD
 ! laceLove.png :laceLove: :lacelove:
 ! laceLurk.png :laceLurk: :lacelurk:
 ! laceMP.png :laceMP: :lacemp:
+! laceMath.png :laceMath: :lacemath:
 ! laceMeeko.png :laceMeeko: :lacemeeko:
 ! laceNo.png :laceNo: :laceno:
+! laceNote.png :laceNote: :lacenote:
 ! laceOMG.png :laceOMG: :laceomg:
 ! laceOop.png :laceOop: :laceoop:
 ! lacePF.png :lacePF: :lacepf:
+! lacePat.png :lacePat: :lacepat:
+! lacePlead.png :lacePlead: :laceplead:
 ! lacePls.png :lacePls: :lacepls:
 ! lacePog.png :lacePog: :lacepog:
+! lacePout.png :lacePout: :lacepout:
 ! lacePuff.png :lacePuff: :lacepuff:
 ! lacePuke.png :lacePuke: :lacepuke:
 ! laceREE.png :laceREE: :laceree:
@@ -1480,10 +1495,13 @@ Author=RD
 ! laceShrug.png :laceShrug: :laceshrug:
 ! laceShy.png :laceShy: :laceshy:
 ! laceSip.png :laceSip: :lacesip:
+! laceSleep.png :laceSleep: :lacesleep:
+! laceSmart.png :laceSmart: :lacesmart:
 ! laceT.png :laceT: :lacet:
 ! laceTCKT.png :laceTCKT: :lacetckt:
 ! laceTea.png :laceTea: :lacetea:
 ! laceTears.png :laceTears: :lacetears:
+! laceTease.png :laceTease: :lacetease:
 ! laceTen.png :laceTen: :laceten:
 ! laceThicc.png :laceThicc: :lacethicc:
 ! laceToxic.png :laceToxic: :lacetoxic:
@@ -3120,6 +3138,7 @@ Author=RD
 ! ussr.gif :ussr:
 ! uwot.png :uwot:
 ! v.gif :v:
+! vale7.png :vale7: :vale7:
 ! valeBaka.png :valeBaka: :valebaka:
 ! valeBattle.png :valeBattle: :valebattle:
 ! valeBlush.png :valeBlush: :valeblush:
@@ -3127,6 +3146,7 @@ Author=RD
 ! valeCheer.png :valeCheer: :valecheer:
 ! valeComfy.png :valeComfy: :valecomfy:
 ! valeCry.png :valeCry: :valecry:
+! valeCute.png :valeCute: :valecute:
 ! valeD.png :valeD: :valed:
 ! valeDabL.png :valeDabL: :valedabl:
 ! valeDabR.png :valeDabR: :valedabr:
@@ -3138,10 +3158,14 @@ Author=RD
 ! valeGasm.png :valeGasm: :valegasm:
 ! valeGiggle.png :valeGiggle: :valegiggle:
 ! valeGrrr.png :valeGrrr: :valegrrr:
+! valeHooray.png :valeHooray: :valehooray:
 ! valeHug.png :valeHug: :valehug:
 ! valeHugged.png :valeHugged: :valehugged:
 ! valeHype.png :valeHype: :valehype:
 ! valeImpMercyHealsGoodMan.png :valeImpMercyHealsGoodMan: :valeimpmercyhealsgoodman:
+! valeInspect.png :valeInspect: :valeinspect:
+! valeJoy.png :valeJoy: :valejoy:
+! valeLUL.png :valeLUL: :valelul:
 ! valeLewd.png :valeLewd: :valelewd:
 ! valeLove.png :valeLove: :valelove:
 ! valeLurk.png :valeLurk: :valelurk:
@@ -3150,7 +3174,9 @@ Author=RD
 ! valeOoh.png :valeOoh: :valeooh:
 ! valePanic.png :valePanic: :valepanic:
 ! valeParty.png :valeParty: :valeparty:
+! valePat.png :valePat: :valepat:
 ! valeRIP.png :valeRIP: :valerip:
+! valeRage.png :valeRage: :valerage:
 ! valeRiot.png :valeRiot: :valeriot:
 ! valeS.png :valeS: :vales:
 ! valeShrug.png :valeShrug: :valeshrug:
@@ -3164,6 +3190,8 @@ Author=RD
 ! valeWingL.png :valeWingL: :valewingl:
 ! valeWingR.png :valeWingR: :valewingr:
 ! valeWow.png :valeWow: :valewow:
+! valeWut.png :valeWut: :valewut:
+! valeYawn.png :valeYawn: :valeyawn:
 ! valeYo.png :valeYo: :valeyo:
 ! valeZzz.png :valeZzz: :valezzz:
 ! valvebeta.png :valvebeta:
